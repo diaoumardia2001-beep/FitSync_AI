@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DocTunis</title>
+    <link rel="stylesheet" href="./jury.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <div class="logo">
+                <img src="./Images/MovieMagie-removebg-preview.png" alt="Festival Logo">
+            </div>
+            <ul>
+                <li><a href="index.html">Accueil</a></li>
+                <li><a href="./enregistrement.html">Enregistrement</a></li>
+                <li><a href="./catalogue.html">Catalogue</a></li>
+                <li><a href="./planning.html">Planning</a></li>
+                <li><a href="./jury.html">Jury</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section class="form-section">
+            <h2>Enregistrer un Membre du Jury</h2>
+            <form action="traitement.php" method="POST"> 
+                <label for="code">Code :</label>
+                <input type="text" id="code" name="code" required>
+
+                <label for="nom">Nom :</label>
+                <input type="text" id="nom" name="nom" required>
+
+                <label for="prenom">Prénom :</label>
+                <input type="text" id="prenom" name="prenom" required>
+
+                <label for="dateNaissance">Date de Naissance :</label>
+                <input type="date" id="dateNaissance" name="dateNaissance" required>
+
+                <button type="submit">Ajouter au Jury</button>
+            </form>
+        </section>
+        <section class="form-section">
+            <h2>Enregistrer un Membre du Jury</h2>
+            <form action="traitement.php" method="POST">
+                <label for="code">Code :</label>
+                <input type="text" id="code" name="code" required>
+        
+                <label for="nom">Nom :</label>
+                <input type="text" id="nom" name="nom" required>
+        
+                <label for="prenom">Prénom :</label>
+                <input type="text" id="prenom" name="prenom" required>
+        
+                <button type="submit">Ajouter au Jury</button>
+            </form>
+        </section>
+        
+        <section class="jury-list-section">
+            <h2>Liste des Membres du Jury</h2>
+            <table>
+                <thead>
+                    <tr>
+                        <th>Code</th>
+                        <th>Nom</th>
+                        <th>Prénom</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>001</td>
+                        <td>YAO</td>
+                        <td>Rachelle</td>
+                    </tr>
+                    <tr>
+                        <td>002</td>
+                        <td>YAPI</td>
+                        <td>Kedesh</td>
+                    </tr>
+                    <tr>
+                        <td>003</td>
+                        <td>TOURE</td>
+                        <td>Konnie</td>
+                    </tr>
+                   
+                  
+                        <td><strong>PRÉ</strong></td>
+                        <td><strong>OUEDRAOOG</strong></td>
+                        <td><strong>Rabiatou</strong></td>
+                    </tr>
+                   
+                </tbody>
+            </table>
+        </section>
+        
+        
+    </main>
+    
+    <footer>
+        <div class="footer-container">
+            <div class="footer-section contact">
+                <h2>Contactez-nous</h2>
+                <p>Email : MovieMagie@cinema.com</p>
+                <p>Téléphone : +225 987 654 321</p>
+                <p>Adresse : Rue des Lumières, Abidjan, Côte d'Ivoire</p>
+            </div>
+
+            <div class="footer-section social">
+                <h2>Suivez-nous</h2>
+                <div class="social-icons">
+                    <a href="#"><img src="./Images/fb-removebg-preview (1).png" alt="Facebook"></a>
+                    <a href="#"><img src="./Images/INSTA.png" alt="Instagram"></a>
+                    <a href="#"><img src="./Images/youtube-removebg-preview.png" alt="YouTube"></a>
+                </div>
+            </div>
+
+            <div class="footer-section subscribe">
+                <h2>Abonnez-vous</h2>
+                <p>Recevez les dernières nouveautés cinématographiques directement dans votre boîte mail :</p>
+                <form action="#">
+                    <input type="email" placeholder="Entrez votre email" required>
+                    <button type="submit">S'abonner</button>
+                </form>
+            </div>
+        </div>
+
+        <div class="footer-bottom">
+            &copy; 2024 MovieMagie | Tous droits réservés.
+        </div>
+    </footer>
+</body>
+</html>
