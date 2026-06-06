@@ -2,92 +2,55 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 import pandas as pd
 
+# 1. GRAPHIQUE LINÉAIRE (Time Series)
 def plot_steps_calories(df):
-    """Graphique linéaire : pas et calories au fil du temps"""
-    
+    """Affiche la progression des pas et calories au fil du temps."""
     df = df.copy()
     df["date"] = pd.to_datetime(df["date"])
     
-    # Grouper par date
     daily = df.groupby("date")[["steps", "calories"]].mean().reset_index()
-    daily = daily.sort_values("date")
-
+    
     fig, (ax1, ax2) = plt.subplots(2, 1, figsize=(12, 8))
-    fig.suptitle("📈 Progression quotidienne", fontsize=16, fontweight="bold")
-
-    # Graphique des pas
+    
     sns.lineplot(data=daily, x="date", y="steps", ax=ax1, color="blue", marker="o")
-    ax1.set_title("👟 Nombre de pas par jour")
-    ax1.set_xlabel("Date")
-    ax1.set_ylabel("Pas")
-    ax1.tick_params(axis='x', rotation=45)
-    ax1.grid(True, alpha=0.3)
-
-    # Graphique des calories
+    ax1.set_title("Évolution des Pas")
+    
     sns.lineplot(data=daily, x="date", y="calories", ax=ax2, color="red", marker="o")
-    ax2.set_title("🔥 Calories brûlées par jour")
-    ax2.set_xlabel("Date")
-    ax2.set_ylabel("Calories")
-    ax2.tick_params(axis='x', rotation=45)
-    ax2.grid(True, alpha=0.3)
-
+    ax2.set_title("Évolution des Calories")
+    
     plt.tight_layout()
     plt.savefig("visualization/steps_calories.png")
     plt.show()
-    print("✅ Graphique sauvegardé : visualization/steps_calories.png")
 
-
+# 2. GRAPHIQUE À BARRES (Bar Chart)
 def plot_workout_frequency(df):
-    """Graphique à barres : fréquence des types de workout"""
-
+    """Compte combien de séances pour chaque type de sport."""
     plt.figure(figsize=(10, 6))
     workout_counts = df["workout"].value_counts()
-
-    sns.barplot(x=workout_counts.index, y=workout_counts.values, palette="viridis")
-    plt.title("🏋️ Fréquence des types d'entraînement", fontsize=14, fontweight="bold")
-    plt.xlabel("Type de workout")
-    plt.ylabel("Nombre de séances")
-    plt.xticks(rotation=45)
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-    plt.savefig("visualization/workout_frequency.png")
+    
+    # Correction : ajout de hue=workout_counts.index et legend=False
+    sns.barplot(x=workout_counts.index, y=workout_counts.values, hue=workout_counts.index, palette="viridis", legend=False)
+    
+    plt.title("🏋️ Fréquence des types d'entraînement")
     plt.show()
-    print("✅ Graphique sauvegardé : visualization/workout_frequency.png")
 
-
+# 3. BOXPLOT (Boîte à moustaches)
 def plot_calories_by_workout(df):
-    """Boxplot : distribution des calories par type de workout"""
-
+    """Montre la distribution des calories par sport."""
     plt.figure(figsize=(10, 6))
-    sns.boxplot(data=df, x="workout", y="calories", palette="Set2")
-    plt.title("📊 Calories brûlées par type de workout", fontsize=14, fontweight="bold")
-    plt.xlabel("Type de workout")
-    plt.ylabel("Calories")
-    plt.xticks(rotation=45)
-    plt.grid(True, alpha=0.3)
-
-    plt.tight_layout()
-    plt.savefig("visualization/calories_by_workout.png")
+    
+    # Correction : ajout de hue="workout" et legend=False
+    sns.boxplot(data=df, x="workout", y="calories", hue="workout", palette="Set2", legend=False)
+    
+    plt.title("Distribution des Calories par type d'entraînement")
     plt.show()
-    print("✅ Graphique sauvegardé : visualization/calories_by_workout.png")
 
-
+# 4. CAMEMBERT (Pie Chart)
 def plot_goals_distribution(df):
-    """Camembert : distribution des objectifs"""
-
+    """Répartition des objectifs des utilisateurs."""
     plt.figure(figsize=(8, 8))
     goal_counts = df.groupby("goal")["name"].nunique()
-
-    plt.pie(
-        goal_counts.values,
-        labels=goal_counts.index,
-        autopct="%1.1f%%",
-        colors=sns.color_palette("pastel")
-    )
-    plt.title("🎯 Distribution des objectifs fitness", fontsize=14, fontweight="bold")
-
-    plt.tight_layout()
-    plt.savefig("visualization/goals_distribution.png")
+    
+    plt.pie(goal_counts.values, labels=goal_counts.index, autopct="%1.1f%%")
+    plt.title("Répartition des objectifs des utilisateurs")
     plt.show()
-    print("✅ Graphique sauvegardé : visualization/goals_distribution.png")

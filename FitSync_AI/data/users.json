@@ -1,936 +1,936 @@
 [
     {
-        "name": "Danny Kim",
-        "age": 38,
-        "goal": "strength",
-        "daily_logs": [
-            {
-                "date": "2026-06-04",
-                "steps": 7403,
-                "calories": 647,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-06-03",
-                "steps": 8047,
-                "calories": 693,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-06-02",
-                "steps": 12777,
-                "calories": 245,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-06-01",
-                "steps": 11860,
-                "calories": 242,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-31",
-                "steps": 7407,
-                "calories": 687,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-30",
-                "steps": 6583,
-                "calories": 502,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-29",
-                "steps": 10956,
-                "calories": 625,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-28",
-                "steps": 14283,
-                "calories": 212,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-27",
-                "steps": 6927,
-                "calories": 596,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-26",
-                "steps": 8638,
-                "calories": 525,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-25",
-                "steps": 13886,
-                "calories": 272,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-24",
-                "steps": 14150,
-                "calories": 285,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-23",
-                "steps": 5666,
-                "calories": 704,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-22",
-                "steps": 2457,
-                "calories": 685,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-21",
-                "steps": 3684,
-                "calories": 234,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-20",
-                "steps": 3917,
-                "calories": 568,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-19",
-                "steps": 6399,
-                "calories": 492,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-18",
-                "steps": 2834,
-                "calories": 281,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-17",
-                "steps": 9730,
-                "calories": 691,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-16",
-                "steps": 6801,
-                "calories": 520,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-15",
-                "steps": 4151,
-                "calories": 750,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-14",
-                "steps": 5900,
-                "calories": 485,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-13",
-                "steps": 4582,
-                "calories": 248,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-12",
-                "steps": 3771,
-                "calories": 207,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-11",
-                "steps": 3520,
-                "calories": 555,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-10",
-                "steps": 12657,
-                "calories": 671,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-09",
-                "steps": 3817,
-                "calories": 753,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-08",
-                "steps": 11032,
-                "calories": 703,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-07",
-                "steps": 14639,
-                "calories": 229,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-06",
-                "steps": 9800,
-                "calories": 526,
-                "workout": "Walking"
-            }
-        ]
-    },
-    {
-        "name": "Kaitlyn Bean",
-        "age": 57,
+        "name": "Sharon Larson",
+        "age": 40,
         "goal": "cardio",
         "daily_logs": [
             {
-                "date": "2026-06-04",
-                "steps": 3861,
-                "calories": 791,
+                "date": "2026-06-06",
+                "steps": 4777,
+                "calories": 287,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-06-05",
+                "steps": 4775,
+                "calories": 465,
                 "workout": "HIIT"
             },
-            {
-                "date": "2026-06-03",
-                "steps": 13267,
-                "calories": 428,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-06-02",
-                "steps": 5796,
-                "calories": 579,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-06-01",
-                "steps": 6132,
-                "calories": 262,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-31",
-                "steps": 5748,
-                "calories": 285,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-30",
-                "steps": 4882,
-                "calories": 281,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-29",
-                "steps": 7834,
-                "calories": 686,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-28",
-                "steps": 9858,
-                "calories": 249,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-27",
-                "steps": 11551,
-                "calories": 630,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-26",
-                "steps": 6544,
-                "calories": 395,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-25",
-                "steps": 5160,
-                "calories": 756,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-24",
-                "steps": 13269,
-                "calories": 419,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-23",
-                "steps": 9027,
-                "calories": 510,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-22",
-                "steps": 13155,
-                "calories": 705,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-21",
-                "steps": 9645,
-                "calories": 572,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-20",
-                "steps": 9720,
-                "calories": 769,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-19",
-                "steps": 4169,
-                "calories": 425,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-18",
-                "steps": 8981,
-                "calories": 686,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-17",
-                "steps": 9763,
-                "calories": 407,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-16",
-                "steps": 10861,
-                "calories": 258,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-15",
-                "steps": 11785,
-                "calories": 535,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-14",
-                "steps": 8489,
-                "calories": 717,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-13",
-                "steps": 3322,
-                "calories": 617,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-12",
-                "steps": 12234,
-                "calories": 692,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-11",
-                "steps": 11134,
-                "calories": 699,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-10",
-                "steps": 5644,
-                "calories": 271,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-09",
-                "steps": 3135,
-                "calories": 305,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-08",
-                "steps": 13382,
-                "calories": 687,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-07",
-                "steps": 14344,
-                "calories": 728,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-06",
-                "steps": 7520,
-                "calories": 784,
-                "workout": "Walking"
-            }
-        ]
-    },
-    {
-        "name": "Christopher Ruiz",
-        "age": 56,
-        "goal": "flexibility",
-        "daily_logs": [
             {
                 "date": "2026-06-04",
-                "steps": 10874,
-                "calories": 498,
+                "steps": 14450,
+                "calories": 548,
                 "workout": "Strength Training"
             },
             {
                 "date": "2026-06-03",
-                "steps": 13294,
-                "calories": 749,
+                "steps": 3028,
+                "calories": 586,
                 "workout": "Cycling"
             },
             {
                 "date": "2026-06-02",
-                "steps": 10478,
-                "calories": 543,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-06-01",
-                "steps": 11502,
-                "calories": 227,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-31",
-                "steps": 4910,
-                "calories": 432,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-30",
-                "steps": 10995,
-                "calories": 210,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-29",
-                "steps": 2906,
-                "calories": 366,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-28",
-                "steps": 12466,
-                "calories": 503,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-27",
-                "steps": 8019,
-                "calories": 339,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-26",
-                "steps": 6991,
-                "calories": 629,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-25",
-                "steps": 10665,
-                "calories": 235,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-24",
-                "steps": 13303,
-                "calories": 286,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-23",
-                "steps": 6921,
-                "calories": 280,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-22",
-                "steps": 7234,
-                "calories": 210,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-21",
-                "steps": 6991,
-                "calories": 700,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-20",
-                "steps": 11131,
-                "calories": 213,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-19",
-                "steps": 10914,
-                "calories": 470,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-18",
-                "steps": 10726,
-                "calories": 527,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-17",
-                "steps": 14981,
-                "calories": 640,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-16",
-                "steps": 14589,
-                "calories": 472,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-15",
-                "steps": 7279,
-                "calories": 208,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-14",
-                "steps": 6156,
-                "calories": 242,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-13",
-                "steps": 13592,
-                "calories": 567,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-12",
-                "steps": 13624,
-                "calories": 264,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-11",
-                "steps": 12019,
-                "calories": 523,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-10",
-                "steps": 13920,
-                "calories": 642,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-09",
-                "steps": 2810,
-                "calories": 321,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-08",
-                "steps": 11548,
-                "calories": 517,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-07",
-                "steps": 6060,
-                "calories": 324,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-06",
-                "steps": 2053,
-                "calories": 554,
-                "workout": "Cycling"
-            }
-        ]
-    },
-    {
-        "name": "Christopher Martin",
-        "age": 50,
-        "goal": "weight_loss",
-        "daily_logs": [
-            {
-                "date": "2026-06-04",
-                "steps": 4361,
-                "calories": 643,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-06-03",
-                "steps": 12947,
-                "calories": 338,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-06-02",
-                "steps": 12214,
-                "calories": 378,
+                "steps": 14730,
+                "calories": 301,
                 "workout": "HIIT"
             },
             {
                 "date": "2026-06-01",
-                "steps": 8709,
-                "calories": 692,
-                "workout": "Cycling"
+                "steps": 9473,
+                "calories": 257,
+                "workout": "Running"
             },
             {
                 "date": "2026-05-31",
-                "steps": 6521,
-                "calories": 210,
+                "steps": 5471,
+                "calories": 229,
                 "workout": "Running"
             },
             {
                 "date": "2026-05-30",
-                "steps": 11966,
-                "calories": 302,
-                "workout": "HIIT"
+                "steps": 11733,
+                "calories": 426,
+                "workout": "Running"
             },
             {
                 "date": "2026-05-29",
-                "steps": 8684,
-                "calories": 385,
+                "steps": 5729,
+                "calories": 437,
                 "workout": "HIIT"
             },
             {
                 "date": "2026-05-28",
-                "steps": 6468,
-                "calories": 518,
-                "workout": "HIIT"
+                "steps": 6750,
+                "calories": 429,
+                "workout": "Strength Training"
             },
             {
                 "date": "2026-05-27",
-                "steps": 13875,
-                "calories": 228,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-26",
-                "steps": 11784,
+                "steps": 2123,
                 "calories": 743,
                 "workout": "Cycling"
             },
             {
-                "date": "2026-05-25",
-                "steps": 11733,
-                "calories": 542,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-24",
-                "steps": 5067,
-                "calories": 683,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-23",
-                "steps": 11323,
-                "calories": 790,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-22",
-                "steps": 10048,
-                "calories": 521,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-21",
-                "steps": 12590,
-                "calories": 263,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-20",
-                "steps": 8173,
-                "calories": 378,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-19",
-                "steps": 4485,
-                "calories": 703,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-18",
-                "steps": 5051,
-                "calories": 280,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-17",
-                "steps": 9676,
-                "calories": 491,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-16",
-                "steps": 14203,
-                "calories": 214,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-15",
-                "steps": 9145,
-                "calories": 486,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-14",
-                "steps": 11214,
-                "calories": 219,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-13",
-                "steps": 10876,
-                "calories": 482,
-                "workout": "Cycling"
-            },
-            {
-                "date": "2026-05-12",
-                "steps": 13509,
-                "calories": 329,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-11",
-                "steps": 11401,
-                "calories": 319,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-10",
-                "steps": 7908,
-                "calories": 470,
-                "workout": "HIIT"
-            },
-            {
-                "date": "2026-05-09",
-                "steps": 6847,
-                "calories": 749,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-05-08",
-                "steps": 5853,
+                "date": "2026-05-26",
+                "steps": 13828,
                 "calories": 303,
                 "workout": "HIIT"
             },
             {
-                "date": "2026-05-07",
-                "steps": 7287,
-                "calories": 694,
+                "date": "2026-05-25",
+                "steps": 11862,
+                "calories": 683,
                 "workout": "Strength Training"
             },
             {
-                "date": "2026-05-06",
-                "steps": 9323,
-                "calories": 378,
+                "date": "2026-05-24",
+                "steps": 9098,
+                "calories": 684,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-23",
+                "steps": 8716,
+                "calories": 476,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-22",
+                "steps": 14830,
+                "calories": 474,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-21",
+                "steps": 3022,
+                "calories": 217,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-20",
+                "steps": 3531,
+                "calories": 233,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-19",
+                "steps": 5104,
+                "calories": 234,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-18",
+                "steps": 9680,
+                "calories": 203,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-17",
+                "steps": 10456,
+                "calories": 224,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-16",
+                "steps": 2771,
+                "calories": 701,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-15",
+                "steps": 9076,
+                "calories": 495,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-14",
+                "steps": 7119,
+                "calories": 350,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-13",
+                "steps": 5541,
+                "calories": 250,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-12",
+                "steps": 9857,
+                "calories": 438,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-11",
+                "steps": 6772,
+                "calories": 599,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-10",
+                "steps": 2343,
+                "calories": 664,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-09",
+                "steps": 4167,
+                "calories": 402,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-08",
+                "steps": 14626,
+                "calories": 474,
                 "workout": "Cycling"
             }
         ]
     },
     {
-        "name": "Walter Long",
-        "age": 30,
-        "goal": "cardio",
+        "name": "Thomas Hawkins",
+        "age": 51,
+        "goal": "strength",
         "daily_logs": [
             {
+                "date": "2026-06-06",
+                "steps": 14340,
+                "calories": 686,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-06-05",
+                "steps": 10359,
+                "calories": 264,
+                "workout": "Yoga"
+            },
+            {
                 "date": "2026-06-04",
-                "steps": 5955,
-                "calories": 322,
-                "workout": "Running"
+                "steps": 3994,
+                "calories": 409,
+                "workout": "Yoga"
             },
             {
                 "date": "2026-06-03",
-                "steps": 2049,
-                "calories": 366,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-06-02",
-                "steps": 5281,
-                "calories": 458,
-                "workout": "Strength Training"
-            },
-            {
-                "date": "2026-06-01",
-                "steps": 7997,
-                "calories": 501,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-31",
-                "steps": 11138,
-                "calories": 475,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-30",
-                "steps": 5149,
-                "calories": 440,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-29",
-                "steps": 9177,
-                "calories": 402,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-28",
-                "steps": 14390,
-                "calories": 703,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-27",
-                "steps": 8697,
-                "calories": 707,
-                "workout": "Yoga"
-            },
-            {
-                "date": "2026-05-26",
-                "steps": 7326,
-                "calories": 312,
-                "workout": "Walking"
-            },
-            {
-                "date": "2026-05-25",
-                "steps": 6789,
-                "calories": 255,
+                "steps": 6396,
+                "calories": 207,
                 "workout": "HIIT"
             },
             {
+                "date": "2026-06-02",
+                "steps": 9440,
+                "calories": 402,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-06-01",
+                "steps": 11840,
+                "calories": 649,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-31",
+                "steps": 14763,
+                "calories": 373,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-30",
+                "steps": 5709,
+                "calories": 210,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-29",
+                "steps": 7243,
+                "calories": 447,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-28",
+                "steps": 3091,
+                "calories": 243,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-27",
+                "steps": 10294,
+                "calories": 648,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-26",
+                "steps": 14310,
+                "calories": 461,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-25",
+                "steps": 5432,
+                "calories": 627,
+                "workout": "Cycling"
+            },
+            {
                 "date": "2026-05-24",
-                "steps": 12379,
-                "calories": 417,
+                "steps": 9416,
+                "calories": 215,
                 "workout": "Walking"
             },
             {
                 "date": "2026-05-23",
-                "steps": 8383,
-                "calories": 268,
-                "workout": "Walking"
+                "steps": 9237,
+                "calories": 471,
+                "workout": "Yoga"
             },
             {
                 "date": "2026-05-22",
-                "steps": 4891,
-                "calories": 721,
+                "steps": 11529,
+                "calories": 531,
                 "workout": "Cycling"
             },
             {
                 "date": "2026-05-21",
-                "steps": 11442,
-                "calories": 577,
-                "workout": "Walking"
+                "steps": 7377,
+                "calories": 579,
+                "workout": "HIIT"
             },
             {
                 "date": "2026-05-20",
-                "steps": 8898,
-                "calories": 356,
-                "workout": "Running"
-            },
-            {
-                "date": "2026-05-19",
-                "steps": 9342,
-                "calories": 388,
+                "steps": 4076,
+                "calories": 235,
                 "workout": "Cycling"
             },
             {
+                "date": "2026-05-19",
+                "steps": 3593,
+                "calories": 498,
+                "workout": "Running"
+            },
+            {
                 "date": "2026-05-18",
-                "steps": 12992,
-                "calories": 541,
+                "steps": 11646,
+                "calories": 742,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-17",
+                "steps": 3887,
+                "calories": 203,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-16",
+                "steps": 11489,
+                "calories": 782,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-15",
+                "steps": 7407,
+                "calories": 678,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-14",
+                "steps": 5831,
+                "calories": 620,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-13",
+                "steps": 8490,
+                "calories": 518,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-12",
+                "steps": 12742,
+                "calories": 678,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-11",
+                "steps": 4054,
+                "calories": 331,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-10",
+                "steps": 5632,
+                "calories": 680,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-09",
+                "steps": 14430,
+                "calories": 605,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-08",
+                "steps": 5986,
+                "calories": 699,
+                "workout": "Walking"
+            }
+        ]
+    },
+    {
+        "name": "Kevin Ibarra",
+        "age": 20,
+        "goal": "cardio",
+        "daily_logs": [
+            {
+                "date": "2026-06-06",
+                "steps": 5201,
+                "calories": 496,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-06-05",
+                "steps": 10586,
+                "calories": 297,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-06-04",
+                "steps": 7537,
+                "calories": 500,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-06-03",
+                "steps": 8920,
+                "calories": 245,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-06-02",
+                "steps": 8728,
+                "calories": 204,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-06-01",
+                "steps": 2159,
+                "calories": 457,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-31",
+                "steps": 10275,
+                "calories": 300,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-30",
+                "steps": 12441,
+                "calories": 669,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-29",
+                "steps": 4815,
+                "calories": 469,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-28",
+                "steps": 11739,
+                "calories": 238,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-27",
+                "steps": 4883,
+                "calories": 299,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-26",
+                "steps": 9488,
+                "calories": 249,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-25",
+                "steps": 12542,
+                "calories": 501,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-24",
+                "steps": 13672,
+                "calories": 655,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-23",
+                "steps": 2209,
+                "calories": 386,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-22",
+                "steps": 8761,
+                "calories": 220,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-21",
+                "steps": 6912,
+                "calories": 577,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-20",
+                "steps": 5435,
+                "calories": 585,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-19",
+                "steps": 3492,
+                "calories": 287,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-18",
+                "steps": 9739,
+                "calories": 281,
                 "workout": "Cycling"
             },
             {
                 "date": "2026-05-17",
-                "steps": 3471,
-                "calories": 468,
-                "workout": "Strength Training"
+                "steps": 6169,
+                "calories": 359,
+                "workout": "Yoga"
             },
             {
                 "date": "2026-05-16",
-                "steps": 9933,
-                "calories": 262,
-                "workout": "Cycling"
+                "steps": 6810,
+                "calories": 597,
+                "workout": "Yoga"
             },
             {
                 "date": "2026-05-15",
-                "steps": 14175,
-                "calories": 739,
+                "steps": 3327,
+                "calories": 552,
                 "workout": "Walking"
             },
             {
                 "date": "2026-05-14",
-                "steps": 5728,
-                "calories": 512,
-                "workout": "HIIT"
+                "steps": 4121,
+                "calories": 693,
+                "workout": "Strength Training"
             },
             {
                 "date": "2026-05-13",
-                "steps": 6236,
-                "calories": 707,
-                "workout": "Walking"
+                "steps": 9648,
+                "calories": 347,
+                "workout": "Strength Training"
             },
             {
                 "date": "2026-05-12",
-                "steps": 12603,
-                "calories": 792,
-                "workout": "Cycling"
+                "steps": 5031,
+                "calories": 342,
+                "workout": "Walking"
             },
             {
                 "date": "2026-05-11",
-                "steps": 9203,
-                "calories": 763,
+                "steps": 11503,
+                "calories": 458,
                 "workout": "Yoga"
             },
             {
                 "date": "2026-05-10",
-                "steps": 13860,
-                "calories": 773,
-                "workout": "HIIT"
+                "steps": 11272,
+                "calories": 640,
+                "workout": "Running"
             },
             {
                 "date": "2026-05-09",
-                "steps": 7724,
-                "calories": 207,
-                "workout": "Walking"
+                "steps": 14249,
+                "calories": 287,
+                "workout": "Cycling"
             },
             {
                 "date": "2026-05-08",
-                "steps": 5096,
-                "calories": 338,
+                "steps": 9935,
+                "calories": 575,
+                "workout": "Running"
+            }
+        ]
+    },
+    {
+        "name": "Charles Lamb",
+        "age": 24,
+        "goal": "flexibility",
+        "daily_logs": [
+            {
+                "date": "2026-06-06",
+                "steps": 9800,
+                "calories": 328,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-06-05",
+                "steps": 8559,
+                "calories": 664,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-06-04",
+                "steps": 8356,
+                "calories": 589,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-06-03",
+                "steps": 11078,
+                "calories": 324,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-06-02",
+                "steps": 10118,
+                "calories": 661,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-06-01",
+                "steps": 13013,
+                "calories": 595,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-31",
+                "steps": 9351,
+                "calories": 260,
                 "workout": "Walking"
             },
             {
-                "date": "2026-05-07",
-                "steps": 9302,
-                "calories": 696,
+                "date": "2026-05-30",
+                "steps": 7009,
+                "calories": 215,
                 "workout": "Walking"
             },
             {
-                "date": "2026-05-06",
-                "steps": 5738,
-                "calories": 236,
+                "date": "2026-05-29",
+                "steps": 5177,
+                "calories": 575,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-28",
+                "steps": 7578,
+                "calories": 498,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-27",
+                "steps": 6627,
+                "calories": 458,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-26",
+                "steps": 10543,
+                "calories": 676,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-25",
+                "steps": 10440,
+                "calories": 555,
                 "workout": "Walking"
+            },
+            {
+                "date": "2026-05-24",
+                "steps": 10451,
+                "calories": 727,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-23",
+                "steps": 5906,
+                "calories": 706,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-22",
+                "steps": 2839,
+                "calories": 728,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-21",
+                "steps": 9317,
+                "calories": 664,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-20",
+                "steps": 12733,
+                "calories": 453,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-19",
+                "steps": 5460,
+                "calories": 738,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-18",
+                "steps": 14567,
+                "calories": 444,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-17",
+                "steps": 11565,
+                "calories": 715,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-16",
+                "steps": 12592,
+                "calories": 310,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-15",
+                "steps": 13836,
+                "calories": 477,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-14",
+                "steps": 2758,
+                "calories": 666,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-13",
+                "steps": 14607,
+                "calories": 253,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-12",
+                "steps": 11354,
+                "calories": 550,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-11",
+                "steps": 8512,
+                "calories": 531,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-10",
+                "steps": 6966,
+                "calories": 272,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-09",
+                "steps": 8531,
+                "calories": 248,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-08",
+                "steps": 6447,
+                "calories": 560,
+                "workout": "HIIT"
+            }
+        ]
+    },
+    {
+        "name": "Lori Warren",
+        "age": 22,
+        "goal": "flexibility",
+        "daily_logs": [
+            {
+                "date": "2026-06-06",
+                "steps": 14776,
+                "calories": 794,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-06-05",
+                "steps": 5949,
+                "calories": 234,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-06-04",
+                "steps": 4050,
+                "calories": 620,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-06-03",
+                "steps": 13152,
+                "calories": 624,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-06-02",
+                "steps": 12052,
+                "calories": 569,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-06-01",
+                "steps": 2738,
+                "calories": 510,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-31",
+                "steps": 10099,
+                "calories": 317,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-30",
+                "steps": 9336,
+                "calories": 641,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-29",
+                "steps": 12202,
+                "calories": 673,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-28",
+                "steps": 2475,
+                "calories": 335,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-27",
+                "steps": 11926,
+                "calories": 510,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-26",
+                "steps": 13510,
+                "calories": 420,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-25",
+                "steps": 7939,
+                "calories": 703,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-24",
+                "steps": 3854,
+                "calories": 665,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-23",
+                "steps": 12715,
+                "calories": 553,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-22",
+                "steps": 2504,
+                "calories": 638,
+                "workout": "Yoga"
+            },
+            {
+                "date": "2026-05-21",
+                "steps": 13580,
+                "calories": 764,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-20",
+                "steps": 13261,
+                "calories": 209,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-19",
+                "steps": 7084,
+                "calories": 349,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-18",
+                "steps": 13896,
+                "calories": 484,
+                "workout": "Walking"
+            },
+            {
+                "date": "2026-05-17",
+                "steps": 8443,
+                "calories": 265,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-16",
+                "steps": 3237,
+                "calories": 246,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-15",
+                "steps": 11472,
+                "calories": 545,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-14",
+                "steps": 14450,
+                "calories": 305,
+                "workout": "Strength Training"
+            },
+            {
+                "date": "2026-05-13",
+                "steps": 3978,
+                "calories": 716,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-12",
+                "steps": 3661,
+                "calories": 426,
+                "workout": "Cycling"
+            },
+            {
+                "date": "2026-05-11",
+                "steps": 12617,
+                "calories": 618,
+                "workout": "HIIT"
+            },
+            {
+                "date": "2026-05-10",
+                "steps": 12048,
+                "calories": 428,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-09",
+                "steps": 10442,
+                "calories": 284,
+                "workout": "Running"
+            },
+            {
+                "date": "2026-05-08",
+                "steps": 3990,
+                "calories": 463,
+                "workout": "Cycling"
             }
         ]
     }
