@@ -1,0 +1,1501 @@
+user_id,name,age,goal,date,steps,calories,workout,heart_rate,sleep_hours,weight_kg
+1,Michael Smith,54,flexibility,2026-06-06,18575,536,Cycling,104,8.9,62.5
+1,Michael Smith,54,flexibility,2026-05-14,6793,597,Unknown,108,9.3,45.3
+1,Michael Smith,54,flexibility,2026-05-28,11043,654,Running,174,7.7,93.3
+1,Michael Smith,54,flexibility,2026-06-01,16335,507,Running,137,8.9,81.0
+1,Michael Smith,54,flexibility,2026-05-19,10677,235,Unknown,174,7.6,103.2
+1,Michael Smith,54,flexibility,2026-05-15,6216,241,Unknown,134,8.7,119.6
+1,Michael Smith,54,flexibility,2026-05-23,7725,453,Yoga,160,7.6,48.5
+1,Michael Smith,54,flexibility,2026-05-27,4592,162,Running,134,7.6,81.0
+1,Michael Smith,54,flexibility,2026-05-28,10116,268,Running,179,9.0,96.0
+1,Michael Smith,54,flexibility,2026-05-18,8854,424,Strength Training,64,7.6,86.2
+1,Michael Smith,54,flexibility,2026-05-16,10938,590,Strength Training,101,6.5,54.1
+1,Michael Smith,54,flexibility,2026-05-25,16749,454,Unknown,136,8.7,81.0
+1,Michael Smith,54,flexibility,2026-05-28,12831,670,Walking,82,8.0,79.7
+1,Michael Smith,54,flexibility,2026-05-30,13930,453,Unknown,63,7.6,100.6
+1,Michael Smith,54,flexibility,2026-05-30,16839,453,Strength Training,130,7.6,90.3
+1,Michael Smith,54,flexibility,2026-05-13,12075,290,HIIT,172,9.6,99.2
+1,Michael Smith,54,flexibility,2026-05-31,13849,453,Yoga,94,5.8,76.0
+1,Michael Smith,54,flexibility,2026-05-16,18110,693,Unknown,134,8.6,71.8
+1,Michael Smith,54,flexibility,2026-05-15,13366,554,Strength Training,134,8.6,74.2
+1,Michael Smith,54,flexibility,2026-05-22,11942,501,Strength Training,134,7.0,55.9
+1,Michael Smith,54,flexibility,2026-05-17,10677,333,Strength Training,95,9.0,81.0
+1,Michael Smith,54,flexibility,2026-05-25,3202,453,Strength Training,125,5.8,81.0
+1,Michael Smith,54,flexibility,2026-05-26,10677,454,Running,134,7.6,98.6
+1,Michael Smith,54,flexibility,2026-05-19,17164,440,Unknown,134,6.4,56.2
+1,Michael Smith,54,flexibility,2026-05-17,5014,433,Yoga,93,4.4,81.0
+1,Michael Smith,54,flexibility,2026-06-04,14280,460,Running,134,6.6,68.4
+1,Michael Smith,54,flexibility,2026-05-18,10677,467,Unknown,176,7.0,81.0
+1,Michael Smith,54,flexibility,2026-05-29,13509,454,Walking,134,7.6,81.0
+1,Michael Smith,54,flexibility,2026-05-28,16292,454,Running,154,7.0,61.1
+1,Michael Smith,54,flexibility,2026-05-27,8175,239,Unknown,134,5.0,99.5
+2,Adam Rice,44,weight_loss,2026-05-28,19150,467,Walking,134,4.0,67.3
+2,Adam Rice,44,weight_loss,2026-06-04,18806,195,Unknown,77,7.6,54.9
+2,Adam Rice,44,weight_loss,2026-06-05,13749,453,Walking,96,4.7,71.5
+2,Adam Rice,44,weight_loss,2026-06-04,4624,467,Yoga,97,5.7,53.6
+2,Adam Rice,44,weight_loss,2026-05-26,6479,190,Unknown,163,7.0,81.0
+2,Adam Rice,44,weight_loss,2026-05-21,1181,525,HIIT,129,5.4,92.0
+2,Adam Rice,44,weight_loss,2026-05-08,2256,417,Running,147,9.1,110.4
+2,Adam Rice,44,weight_loss,2026-05-24,10625,453,HIIT,134,7.8,58.4
+2,Adam Rice,44,weight_loss,2026-05-09,17518,577,HIIT,95,9.7,102.7
+2,Adam Rice,44,weight_loss,2026-05-31,9426,180,Walking,64,8.5,77.1
+2,Adam Rice,44,weight_loss,2026-05-27,9734,440,Unknown,134,7.1,100.5
+2,Adam Rice,44,weight_loss,2026-05-11,18495,500,HIIT,166,5.7,48.3
+2,Adam Rice,44,weight_loss,2026-05-24,14895,439,Walking,134,8.9,59.4
+2,Adam Rice,44,weight_loss,2026-06-03,15679,585,Cycling,60,5.4,96.0
+2,Adam Rice,44,weight_loss,2026-05-18,3111,454,Yoga,68,4.5,81.0
+2,Adam Rice,44,weight_loss,2026-05-14,10625,586,Running,163,5.2,68.4
+2,Adam Rice,44,weight_loss,2026-05-26,13153,454,Unknown,92,7.6,78.6
+2,Adam Rice,44,weight_loss,2026-05-15,9643,231,Unknown,155,7.6,64.2
+2,Adam Rice,44,weight_loss,2026-05-20,3214,454,Unknown,134,6.9,101.3
+2,Adam Rice,44,weight_loss,2026-05-26,11367,210,Strength Training,98,6.3,81.0
+2,Adam Rice,44,weight_loss,2026-05-30,9579,433,Unknown,150,9.0,65.4
+2,Adam Rice,44,weight_loss,2026-05-20,2317,528,Unknown,118,9.2,100.5
+2,Adam Rice,44,weight_loss,2026-05-28,10625,290,Unknown,134,5.3,92.1
+2,Adam Rice,44,weight_loss,2026-05-15,11946,418,Running,87,7.5,81.0
+2,Adam Rice,44,weight_loss,2026-05-11,4934,170,HIIT,134,9.2,83.1
+2,Adam Rice,44,weight_loss,2026-05-27,4437,454,Unknown,134,8.0,74.6
+2,Adam Rice,44,weight_loss,2026-06-02,11002,414,HIIT,101,9.4,98.7
+2,Adam Rice,44,weight_loss,2026-05-12,1308,315,Unknown,85,4.3,65.2
+2,Adam Rice,44,weight_loss,2026-06-04,2745,300,Strength Training,167,7.6,64.3
+2,Adam Rice,44,weight_loss,2026-05-21,1793,454,Cycling,134,7.8,81.0
+3,Joseph Weaver,21,flexibility,2026-05-19,16660,454,Running,100,6.0,54.3
+3,Joseph Weaver,21,flexibility,2026-06-02,14251,377,Unknown,64,5.6,74.8
+3,Joseph Weaver,21,flexibility,2026-05-09,8073,263,Strength Training,124,7.6,74.6
+3,Joseph Weaver,21,flexibility,2026-05-14,4512,454,Unknown,78,9.7,86.2
+3,Joseph Weaver,21,flexibility,2026-05-16,14852,396,Walking,62,5.1,112.1
+3,Joseph Weaver,21,flexibility,2026-06-01,5935,556,Unknown,134,4.8,102.3
+3,Joseph Weaver,21,flexibility,2026-06-01,4768,454,Cycling,146,7.7,73.5
+3,Joseph Weaver,21,flexibility,2026-05-22,10698,373,Unknown,83,7.6,82.7
+3,Joseph Weaver,21,flexibility,2026-05-23,19008,454,Unknown,60,7.8,81.0
+3,Joseph Weaver,21,flexibility,2026-05-13,7901,472,Unknown,163,5.2,89.4
+3,Joseph Weaver,21,flexibility,2026-05-29,10677,303,Yoga,73,9.7,116.7
+3,Joseph Weaver,21,flexibility,2026-05-12,2665,536,Cycling,134,7.5,90.5
+3,Joseph Weaver,21,flexibility,2026-06-02,17039,453,Strength Training,134,7.6,102.8
+3,Joseph Weaver,21,flexibility,2026-05-10,6479,548,Yoga,134,6.4,119.8
+3,Joseph Weaver,21,flexibility,2026-05-26,11079,211,Unknown,107,7.6,81.0
+3,Joseph Weaver,21,flexibility,2026-05-24,7487,454,Unknown,100,5.2,81.0
+3,Joseph Weaver,21,flexibility,2026-05-23,10873,593,Unknown,134,9.2,116.5
+3,Joseph Weaver,21,flexibility,2026-05-17,3025,684,Unknown,160,9.6,69.1
+3,Joseph Weaver,21,flexibility,2026-05-27,4368,410,HIIT,134,7.2,81.0
+3,Joseph Weaver,21,flexibility,2026-06-01,19347,454,Unknown,143,5.2,112.6
+3,Joseph Weaver,21,flexibility,2026-05-30,7051,676,Cycling,151,7.6,57.2
+3,Joseph Weaver,21,flexibility,2026-05-29,16696,454,Unknown,105,5.3,55.0
+3,Joseph Weaver,21,flexibility,2026-05-21,14278,654,HIIT,69,6.0,68.1
+3,Joseph Weaver,21,flexibility,2026-06-03,10677,382,Unknown,134,5.7,67.1
+3,Joseph Weaver,21,flexibility,2026-05-26,14715,291,Yoga,134,8.4,81.0
+3,Joseph Weaver,21,flexibility,2026-05-31,13841,239,HIIT,80,6.0,76.4
+3,Joseph Weaver,21,flexibility,2026-05-10,15009,217,Unknown,144,9.3,65.0
+3,Joseph Weaver,21,flexibility,2026-05-28,3240,669,Unknown,160,5.6,55.2
+3,Joseph Weaver,21,flexibility,2026-05-28,5219,363,Unknown,104,5.6,81.0
+3,Joseph Weaver,21,flexibility,2026-05-20,7996,385,Cycling,179,9.6,97.8
+4,Lori Figueroa,27,weight_loss,2026-05-25,2680,414,Walking,175,7.6,75.8
+4,Lori Figueroa,27,weight_loss,2026-06-04,19007,231,Unknown,160,6.7,109.3
+4,Lori Figueroa,27,weight_loss,2026-06-06,4056,436,Unknown,107,8.6,62.6
+4,Lori Figueroa,27,weight_loss,2026-05-18,12723,675,Cycling,133,9.7,114.2
+4,Lori Figueroa,27,weight_loss,2026-06-01,9140,401,Unknown,134,7.6,70.0
+4,Lori Figueroa,27,weight_loss,2026-05-25,1219,577,HIIT,134,8.2,66.1
+4,Lori Figueroa,27,weight_loss,2026-05-14,7574,605,Unknown,119,8.2,46.8
+4,Lori Figueroa,27,weight_loss,2026-05-14,10094,543,Yoga,105,8.7,84.4
+4,Lori Figueroa,27,weight_loss,2026-05-16,17979,548,Strength Training,73,7.1,81.0
+4,Lori Figueroa,27,weight_loss,2026-05-30,10625,464,HIIT,159,9.7,55.6
+4,Lori Figueroa,27,weight_loss,2026-05-15,3552,453,Running,134,8.4,103.6
+4,Lori Figueroa,27,weight_loss,2026-05-16,10625,454,Strength Training,134,6.2,61.6
+4,Lori Figueroa,27,weight_loss,2026-05-11,7175,453,Running,140,8.1,75.3
+4,Lori Figueroa,27,weight_loss,2026-05-08,10625,156,Walking,134,6.3,81.0
+4,Lori Figueroa,27,weight_loss,2026-05-21,6743,534,Walking,116,7.6,88.8
+4,Lori Figueroa,27,weight_loss,2026-05-19,16030,454,Walking,174,6.4,82.1
+4,Lori Figueroa,27,weight_loss,2026-05-21,6406,559,Yoga,135,8.7,102.9
+4,Lori Figueroa,27,weight_loss,2026-06-03,9349,338,Yoga,134,6.7,46.6
+4,Lori Figueroa,27,weight_loss,2026-05-28,16671,614,Yoga,105,6.0,57.9
+4,Lori Figueroa,27,weight_loss,2026-05-12,10273,297,Cycling,64,7.6,119.4
+4,Lori Figueroa,27,weight_loss,2026-05-30,1708,424,Strength Training,142,4.3,81.0
+4,Lori Figueroa,27,weight_loss,2026-05-11,16073,493,Running,179,5.8,81.0
+4,Lori Figueroa,27,weight_loss,2026-06-02,1767,352,Walking,114,7.6,60.2
+4,Lori Figueroa,27,weight_loss,2026-06-02,10625,453,Strength Training,134,7.6,81.0
+4,Lori Figueroa,27,weight_loss,2026-05-10,15127,536,Yoga,95,7.6,93.1
+4,Lori Figueroa,27,weight_loss,2026-05-23,17764,696,Yoga,88,5.5,87.8
+4,Lori Figueroa,27,weight_loss,2026-05-23,1280,464,HIIT,148,4.1,81.0
+4,Lori Figueroa,27,weight_loss,2026-05-22,15435,424,Strength Training,174,5.8,70.1
+4,Lori Figueroa,27,weight_loss,2026-05-18,17655,404,Unknown,134,5.1,85.9
+4,Lori Figueroa,27,weight_loss,2026-06-04,10625,454,Walking,75,5.0,117.9
+5,Sara Jones,29,cardio,2026-05-29,9849,471,Yoga,146,6.1,50.6
+5,Sara Jones,29,cardio,2026-06-06,2493,692,Unknown,169,7.6,55.2
+5,Sara Jones,29,cardio,2026-06-04,16028,554,Unknown,134,8.1,72.0
+5,Sara Jones,29,cardio,2026-05-27,5806,329,Unknown,70,7.6,104.9
+5,Sara Jones,29,cardio,2026-05-22,10484,409,HIIT,73,8.3,116.0
+5,Sara Jones,29,cardio,2026-05-20,9784,319,Strength Training,73,4.0,64.6
+5,Sara Jones,29,cardio,2026-05-12,10085,453,Strength Training,88,7.6,56.9
+5,Sara Jones,29,cardio,2026-05-31,6441,460,Running,99,7.6,117.7
+5,Sara Jones,29,cardio,2026-05-15,4075,385,Unknown,160,7.6,51.6
+5,Sara Jones,29,cardio,2026-05-29,6154,211,Cycling,134,8.1,68.2
+5,Sara Jones,29,cardio,2026-05-28,17387,440,Unknown,172,9.0,81.0
+5,Sara Jones,29,cardio,2026-06-04,6365,649,Unknown,146,5.0,113.7
+5,Sara Jones,29,cardio,2026-05-12,17810,636,Yoga,134,7.6,64.1
+5,Sara Jones,29,cardio,2026-05-12,7121,453,Walking,120,7.5,82.5
+5,Sara Jones,29,cardio,2026-06-05,19140,308,Strength Training,174,7.3,103.5
+5,Sara Jones,29,cardio,2026-05-30,7961,259,Yoga,110,7.9,81.0
+5,Sara Jones,29,cardio,2026-06-06,10484,265,Unknown,178,7.6,81.0
+5,Sara Jones,29,cardio,2026-06-02,10484,356,Unknown,170,7.7,81.0
+5,Sara Jones,29,cardio,2026-05-24,18204,454,Unknown,134,7.1,115.8
+5,Sara Jones,29,cardio,2026-05-11,11766,359,Cycling,175,7.6,88.5
+5,Sara Jones,29,cardio,2026-05-17,10484,482,Unknown,115,7.5,50.7
+5,Sara Jones,29,cardio,2026-05-18,11609,649,Unknown,148,7.6,57.7
+5,Sara Jones,29,cardio,2026-05-20,15720,666,Cycling,91,7.6,72.1
+5,Sara Jones,29,cardio,2026-05-12,10484,308,Unknown,71,6.0,102.3
+5,Sara Jones,29,cardio,2026-05-19,10484,637,Yoga,142,7.6,81.0
+5,Sara Jones,29,cardio,2026-05-16,10484,454,Cycling,134,7.6,74.7
+5,Sara Jones,29,cardio,2026-05-27,17724,694,Walking,169,4.8,55.2
+5,Sara Jones,29,cardio,2026-06-01,18116,542,HIIT,121,5.6,81.0
+5,Sara Jones,29,cardio,2026-05-26,3119,185,Running,105,4.1,48.4
+5,Sara Jones,29,cardio,2026-06-04,19078,450,Walking,65,7.6,110.0
+6,Christopher Garcia,25,strength,2026-05-18,11079,454,Unknown,155,9.2,45.9
+6,Christopher Garcia,25,strength,2026-05-22,10558,440,Unknown,121,7.8,118.6
+6,Christopher Garcia,25,strength,2026-05-15,16362,453,Running,134,5.6,54.8
+6,Christopher Garcia,25,strength,2026-05-22,10558,695,HIIT,113,4.8,81.0
+6,Christopher Garcia,25,strength,2026-05-21,10558,425,Strength Training,167,7.4,117.8
+6,Christopher Garcia,25,strength,2026-05-16,10558,547,Walking,71,6.5,81.1
+6,Christopher Garcia,25,strength,2026-06-01,4464,674,Running,134,6.3,118.9
+6,Christopher Garcia,25,strength,2026-05-14,7123,227,Yoga,140,6.2,81.0
+6,Christopher Garcia,25,strength,2026-05-10,2378,453,Yoga,66,6.7,81.0
+6,Christopher Garcia,25,strength,2026-05-31,16514,494,HIIT,144,7.2,96.6
+6,Christopher Garcia,25,strength,2026-05-31,12294,523,Cycling,143,8.6,81.0
+6,Christopher Garcia,25,strength,2026-05-14,10558,636,Unknown,106,5.7,70.6
+6,Christopher Garcia,25,strength,2026-05-22,17376,467,Yoga,134,7.9,51.2
+6,Christopher Garcia,25,strength,2026-05-22,10246,454,Unknown,134,4.1,118.4
+6,Christopher Garcia,25,strength,2026-05-11,16639,453,Unknown,70,6.5,81.0
+6,Christopher Garcia,25,strength,2026-05-24,16595,454,Running,124,6.7,51.3
+6,Christopher Garcia,25,strength,2026-05-12,8709,626,Cycling,134,8.7,81.0
+6,Christopher Garcia,25,strength,2026-05-16,15825,568,Unknown,157,8.8,55.0
+6,Christopher Garcia,25,strength,2026-05-24,10558,454,Unknown,86,5.4,81.0
+6,Christopher Garcia,25,strength,2026-05-20,9689,236,Yoga,134,6.3,81.0
+6,Christopher Garcia,25,strength,2026-05-23,12169,454,Running,134,8.0,81.0
+6,Christopher Garcia,25,strength,2026-05-22,16611,380,Unknown,70,7.3,50.3
+6,Christopher Garcia,25,strength,2026-05-10,16728,507,Unknown,63,9.8,89.6
+6,Christopher Garcia,25,strength,2026-06-03,6046,334,Unknown,105,8.1,99.2
+6,Christopher Garcia,25,strength,2026-05-16,10558,644,Cycling,161,9.8,101.2
+6,Christopher Garcia,25,strength,2026-05-16,10758,456,Walking,143,9.7,46.2
+6,Christopher Garcia,25,strength,2026-05-19,17688,202,Cycling,134,8.4,81.0
+6,Christopher Garcia,25,strength,2026-05-30,8001,613,HIIT,136,7.6,76.9
+6,Christopher Garcia,25,strength,2026-05-23,16351,418,Walking,134,7.6,104.4
+6,Christopher Garcia,25,strength,2026-05-19,1883,343,HIIT,110,4.7,61.7
+7,Paul Liu,42,cardio,2026-05-16,4813,671,HIIT,65,7.0,81.0
+7,Paul Liu,42,cardio,2026-05-16,19068,476,Unknown,117,7.6,64.5
+7,Paul Liu,42,cardio,2026-05-08,17582,323,Yoga,134,7.6,53.3
+7,Paul Liu,42,cardio,2026-05-08,5832,207,Unknown,175,6.9,47.2
+7,Paul Liu,42,cardio,2026-06-05,1109,508,Cycling,166,8.3,110.2
+7,Paul Liu,42,cardio,2026-05-20,6560,605,Unknown,128,4.2,114.1
+7,Paul Liu,42,cardio,2026-06-03,10484,453,Unknown,166,5.8,88.6
+7,Paul Liu,42,cardio,2026-06-01,6895,613,Yoga,134,6.7,81.0
+7,Paul Liu,42,cardio,2026-05-13,10484,686,Unknown,134,7.4,80.4
+7,Paul Liu,42,cardio,2026-05-17,4453,453,Yoga,128,7.6,79.0
+7,Paul Liu,42,cardio,2026-05-28,10227,467,Yoga,123,8.7,81.7
+7,Paul Liu,42,cardio,2026-05-28,17272,454,Yoga,134,7.4,81.0
+7,Paul Liu,42,cardio,2026-05-25,8361,337,Unknown,149,6.1,86.7
+7,Paul Liu,42,cardio,2026-05-24,10484,467,Yoga,179,8.9,81.0
+7,Paul Liu,42,cardio,2026-05-29,18050,424,Strength Training,148,4.3,74.4
+7,Paul Liu,42,cardio,2026-05-12,12043,454,Strength Training,97,9.6,79.3
+7,Paul Liu,42,cardio,2026-06-06,18138,536,Cycling,129,7.4,81.0
+7,Paul Liu,42,cardio,2026-05-31,8332,454,Unknown,118,4.2,107.3
+7,Paul Liu,42,cardio,2026-05-24,5643,454,Walking,161,9.0,66.5
+7,Paul Liu,42,cardio,2026-06-03,19551,699,HIIT,151,5.0,81.0
+7,Paul Liu,42,cardio,2026-05-09,1538,310,Unknown,134,7.3,101.6
+7,Paul Liu,42,cardio,2026-05-31,9984,396,HIIT,134,6.7,94.0
+7,Paul Liu,42,cardio,2026-05-09,8201,316,Unknown,94,7.4,114.3
+7,Paul Liu,42,cardio,2026-05-13,10484,325,Unknown,82,6.1,114.2
+7,Paul Liu,42,cardio,2026-05-09,10541,630,Unknown,85,7.6,81.0
+7,Paul Liu,42,cardio,2026-05-13,1825,404,Walking,82,7.6,81.0
+7,Paul Liu,42,cardio,2026-05-27,8121,311,Unknown,134,7.3,77.2
+7,Paul Liu,42,cardio,2026-05-15,5517,581,Unknown,134,9.5,119.6
+7,Paul Liu,42,cardio,2026-05-31,10484,344,Cycling,82,9.8,113.0
+7,Paul Liu,42,cardio,2026-05-30,11110,161,Walking,112,7.0,98.8
+8,Barbara Cole,48,cardio,2026-05-24,8128,440,Unknown,168,7.6,88.0
+8,Barbara Cole,48,cardio,2026-05-19,18827,563,Unknown,106,4.8,64.1
+8,Barbara Cole,48,cardio,2026-05-26,7719,555,Walking,134,7.6,81.0
+8,Barbara Cole,48,cardio,2026-05-08,9711,453,HIIT,173,7.9,81.0
+8,Barbara Cole,48,cardio,2026-05-23,14487,215,Unknown,155,7.6,98.0
+8,Barbara Cole,48,cardio,2026-05-20,10484,290,Yoga,152,7.6,81.0
+8,Barbara Cole,48,cardio,2026-05-14,19862,474,Strength Training,77,7.6,85.3
+8,Barbara Cole,48,cardio,2026-05-17,6170,454,Running,134,7.6,114.8
+8,Barbara Cole,48,cardio,2026-05-27,12256,511,Walking,134,7.6,61.4
+8,Barbara Cole,48,cardio,2026-06-05,18535,476,HIIT,178,7.6,72.5
+8,Barbara Cole,48,cardio,2026-05-16,4778,453,Unknown,89,7.6,109.5
+8,Barbara Cole,48,cardio,2026-05-09,1717,453,Running,134,7.6,95.5
+8,Barbara Cole,48,cardio,2026-05-31,5136,453,HIIT,67,7.6,81.0
+8,Barbara Cole,48,cardio,2026-05-31,19332,570,Unknown,134,9.3,52.0
+8,Barbara Cole,48,cardio,2026-05-11,1506,453,Running,171,8.0,113.3
+8,Barbara Cole,48,cardio,2026-05-25,10484,454,Cycling,145,6.2,60.1
+8,Barbara Cole,48,cardio,2026-06-01,16877,278,Cycling,84,7.8,90.3
+8,Barbara Cole,48,cardio,2026-05-26,6286,454,Walking,142,7.6,88.8
+8,Barbara Cole,48,cardio,2026-05-25,10059,293,Unknown,151,4.7,91.7
+8,Barbara Cole,48,cardio,2026-05-24,10484,453,Strength Training,178,4.2,119.2
+8,Barbara Cole,48,cardio,2026-06-06,8783,276,Cycling,134,9.3,93.2
+8,Barbara Cole,48,cardio,2026-05-31,19959,483,Strength Training,82,5.0,65.5
+8,Barbara Cole,48,cardio,2026-05-12,1521,454,Unknown,174,4.9,50.1
+8,Barbara Cole,48,cardio,2026-05-21,10484,454,Unknown,134,7.8,117.1
+8,Barbara Cole,48,cardio,2026-05-12,12801,454,Strength Training,134,4.3,88.8
+8,Barbara Cole,48,cardio,2026-06-03,5122,608,Unknown,164,5.7,97.8
+8,Barbara Cole,48,cardio,2026-05-14,13629,328,Walking,104,8.7,56.5
+8,Barbara Cole,48,cardio,2026-05-11,10484,491,Running,134,7.4,111.5
+8,Barbara Cole,48,cardio,2026-05-24,11728,188,Walking,122,7.6,69.9
+8,Barbara Cole,48,cardio,2026-05-14,11667,685,Cycling,156,4.4,52.5
+9,William Lowe,47,flexibility,2026-05-17,3393,454,Cycling,138,7.6,46.4
+9,William Lowe,47,flexibility,2026-05-22,18872,700,Strength Training,90,8.7,81.0
+9,William Lowe,47,flexibility,2026-06-05,14005,569,HIIT,84,5.4,91.3
+9,William Lowe,47,flexibility,2026-05-26,10988,460,Running,134,7.6,73.3
+9,William Lowe,47,flexibility,2026-05-21,11174,377,Strength Training,92,9.0,78.4
+9,William Lowe,47,flexibility,2026-05-22,16173,226,HIIT,113,5.3,61.8
+9,William Lowe,47,flexibility,2026-05-30,2071,453,Running,96,6.8,98.6
+9,William Lowe,47,flexibility,2026-05-27,10677,464,HIIT,114,7.6,55.6
+9,William Lowe,47,flexibility,2026-05-29,19018,684,HIIT,134,7.6,51.8
+9,William Lowe,47,flexibility,2026-06-01,12108,621,Strength Training,134,6.1,62.1
+9,William Lowe,47,flexibility,2026-06-03,11145,425,Unknown,113,7.8,55.5
+9,William Lowe,47,flexibility,2026-06-04,7376,386,Unknown,134,4.3,81.0
+9,William Lowe,47,flexibility,2026-05-10,5440,454,Yoga,134,9.0,110.5
+9,William Lowe,47,flexibility,2026-05-11,3613,453,Strength Training,153,8.7,57.0
+9,William Lowe,47,flexibility,2026-05-16,18476,474,Running,67,4.5,81.0
+9,William Lowe,47,flexibility,2026-05-17,3732,205,Strength Training,134,7.6,49.6
+9,William Lowe,47,flexibility,2026-05-13,14934,376,HIIT,112,8.5,53.2
+9,William Lowe,47,flexibility,2026-05-16,16434,177,Running,99,8.9,81.0
+9,William Lowe,47,flexibility,2026-05-11,10677,506,HIIT,66,8.7,64.3
+9,William Lowe,47,flexibility,2026-06-05,5044,453,Unknown,100,5.9,61.9
+9,William Lowe,47,flexibility,2026-05-23,3965,424,Strength Training,120,8.2,96.4
+9,William Lowe,47,flexibility,2026-06-05,15637,180,Unknown,105,6.5,54.8
+9,William Lowe,47,flexibility,2026-05-11,2728,240,HIIT,134,5.2,91.5
+9,William Lowe,47,flexibility,2026-05-26,14417,424,Strength Training,136,7.6,81.0
+9,William Lowe,47,flexibility,2026-05-16,15725,204,Walking,127,7.6,112.9
+9,William Lowe,47,flexibility,2026-05-18,13565,150,Unknown,113,7.9,96.3
+9,William Lowe,47,flexibility,2026-06-02,10073,656,Unknown,78,8.9,117.5
+9,William Lowe,47,flexibility,2026-05-11,10677,362,Yoga,65,6.4,114.9
+9,William Lowe,47,flexibility,2026-06-03,15976,454,Cycling,96,8.7,63.0
+9,William Lowe,47,flexibility,2026-05-27,16598,454,Unknown,78,4.9,117.1
+10,Phillip Mack,28,flexibility,2026-05-12,10677,223,Cycling,134,7.8,81.0
+10,Phillip Mack,28,flexibility,2026-05-17,12813,464,HIIT,112,7.6,46.1
+10,Phillip Mack,28,flexibility,2026-05-11,11297,523,Yoga,128,7.6,103.4
+10,Phillip Mack,28,flexibility,2026-05-19,15233,667,Cycling,162,8.9,81.0
+10,Phillip Mack,28,flexibility,2026-05-09,9440,608,Cycling,80,7.6,46.8
+10,Phillip Mack,28,flexibility,2026-06-06,2839,326,Unknown,134,5.5,112.6
+10,Phillip Mack,28,flexibility,2026-05-23,8642,418,Unknown,89,6.9,63.3
+10,Phillip Mack,28,flexibility,2026-05-14,3431,469,Cycling,165,9.6,92.0
+10,Phillip Mack,28,flexibility,2026-05-16,16049,168,Strength Training,134,4.3,53.2
+10,Phillip Mack,28,flexibility,2026-06-01,14688,624,Walking,110,7.7,101.8
+10,Phillip Mack,28,flexibility,2026-05-09,19622,453,Unknown,64,5.2,84.7
+10,Phillip Mack,28,flexibility,2026-05-24,5402,627,Unknown,108,7.6,81.0
+10,Phillip Mack,28,flexibility,2026-05-11,1100,339,Unknown,135,7.6,74.0
+10,Phillip Mack,28,flexibility,2026-05-15,4300,578,Cycling,134,9.5,109.4
+10,Phillip Mack,28,flexibility,2026-06-01,4015,467,Yoga,82,7.6,97.7
+10,Phillip Mack,28,flexibility,2026-06-03,18852,644,Running,92,8.5,81.0
+10,Phillip Mack,28,flexibility,2026-06-02,12314,454,Unknown,104,5.5,114.4
+10,Phillip Mack,28,flexibility,2026-06-05,7956,307,Unknown,98,6.6,90.8
+10,Phillip Mack,28,flexibility,2026-05-12,1865,460,Running,104,7.3,92.9
+10,Phillip Mack,28,flexibility,2026-05-23,14168,699,Walking,134,6.5,52.6
+10,Phillip Mack,28,flexibility,2026-05-20,3474,365,Strength Training,134,8.1,58.2
+10,Phillip Mack,28,flexibility,2026-05-20,14467,454,Yoga,134,7.0,58.9
+10,Phillip Mack,28,flexibility,2026-05-08,10883,541,HIIT,134,7.9,81.0
+10,Phillip Mack,28,flexibility,2026-05-28,12851,476,Strength Training,71,7.3,51.6
+10,Phillip Mack,28,flexibility,2026-05-14,8189,170,Unknown,127,7.7,99.6
+10,Phillip Mack,28,flexibility,2026-05-08,2986,541,Unknown,73,6.1,85.8
+10,Phillip Mack,28,flexibility,2026-05-08,10677,394,Cycling,127,6.0,50.2
+10,Phillip Mack,28,flexibility,2026-06-01,10677,377,Unknown,172,7.6,112.9
+10,Phillip Mack,28,flexibility,2026-05-08,7349,454,Unknown,126,8.3,72.1
+10,Phillip Mack,28,flexibility,2026-05-12,17845,454,Cycling,110,8.2,100.3
+11,Justin Sanchez,28,cardio,2026-05-13,6695,453,Unknown,149,7.6,67.8
+11,Justin Sanchez,28,cardio,2026-05-28,18904,260,Cycling,71,6.0,81.0
+11,Justin Sanchez,28,cardio,2026-05-13,18625,692,Walking,134,7.6,59.3
+11,Justin Sanchez,28,cardio,2026-05-11,14032,453,Cycling,159,9.2,81.0
+11,Justin Sanchez,28,cardio,2026-06-02,15962,681,Unknown,149,7.6,81.0
+11,Justin Sanchez,28,cardio,2026-05-23,14636,536,Cycling,99,8.6,93.2
+11,Justin Sanchez,28,cardio,2026-05-11,3731,153,Running,71,8.0,74.6
+11,Justin Sanchez,28,cardio,2026-06-05,16272,453,Cycling,126,7.6,81.0
+11,Justin Sanchez,28,cardio,2026-05-27,6091,345,Cycling,106,6.4,81.0
+11,Justin Sanchez,28,cardio,2026-05-16,10226,477,Unknown,70,4.4,81.0
+11,Justin Sanchez,28,cardio,2026-05-27,8726,277,Cycling,66,7.7,69.6
+11,Justin Sanchez,28,cardio,2026-05-21,19391,454,Strength Training,134,8.2,69.8
+11,Justin Sanchez,28,cardio,2026-05-19,2040,439,HIIT,101,4.9,112.0
+11,Justin Sanchez,28,cardio,2026-05-09,2289,454,Running,134,4.9,86.4
+11,Justin Sanchez,28,cardio,2026-05-20,10788,245,Yoga,131,7.6,77.7
+11,Justin Sanchez,28,cardio,2026-05-29,15864,440,Unknown,134,7.6,54.7
+11,Justin Sanchez,28,cardio,2026-05-09,2018,424,Strength Training,105,7.6,81.0
+11,Justin Sanchez,28,cardio,2026-05-16,11701,219,Strength Training,73,9.7,59.1
+11,Justin Sanchez,28,cardio,2026-05-24,10171,260,Walking,118,8.5,85.4
+11,Justin Sanchez,28,cardio,2026-05-27,10484,689,Unknown,162,9.9,51.3
+11,Justin Sanchez,28,cardio,2026-05-16,4239,454,Yoga,110,4.8,77.3
+11,Justin Sanchez,28,cardio,2026-05-16,9502,636,Walking,134,7.1,83.4
+11,Justin Sanchez,28,cardio,2026-05-11,18226,244,Unknown,136,7.8,45.1
+11,Justin Sanchez,28,cardio,2026-05-17,13489,391,Unknown,134,7.6,72.2
+11,Justin Sanchez,28,cardio,2026-05-27,17691,165,Unknown,109,8.7,55.3
+11,Justin Sanchez,28,cardio,2026-05-09,1768,454,Running,63,4.6,81.0
+11,Justin Sanchez,28,cardio,2026-05-20,2141,544,Yoga,111,9.2,81.0
+11,Justin Sanchez,28,cardio,2026-05-15,17929,435,HIIT,134,6.9,73.6
+11,Justin Sanchez,28,cardio,2026-05-20,9691,453,Unknown,111,4.5,99.2
+11,Justin Sanchez,28,cardio,2026-05-24,10484,583,HIIT,86,7.4,78.8
+12,Lisa Anderson,60,strength,2026-06-01,10558,267,Unknown,76,8.6,59.1
+12,Lisa Anderson,60,strength,2026-05-09,6364,439,Unknown,65,9.1,65.2
+12,Lisa Anderson,60,strength,2026-05-28,18376,453,Running,134,7.6,106.8
+12,Lisa Anderson,60,strength,2026-05-19,7770,454,Unknown,90,7.6,67.5
+12,Lisa Anderson,60,strength,2026-05-29,10558,211,HIIT,153,6.7,70.0
+12,Lisa Anderson,60,strength,2026-05-18,15951,468,Walking,110,7.8,83.0
+12,Lisa Anderson,60,strength,2026-05-29,10558,631,Unknown,140,7.8,81.0
+12,Lisa Anderson,60,strength,2026-05-26,14299,691,Cycling,166,5.1,88.5
+12,Lisa Anderson,60,strength,2026-05-15,13072,414,Unknown,142,7.6,52.4
+12,Lisa Anderson,60,strength,2026-05-24,10558,464,HIIT,178,8.8,80.5
+12,Lisa Anderson,60,strength,2026-06-06,10558,618,Yoga,134,7.6,119.8
+12,Lisa Anderson,60,strength,2026-05-28,18100,614,Cycling,164,4.6,73.0
+12,Lisa Anderson,60,strength,2026-05-14,10558,290,Cycling,125,7.6,72.8
+12,Lisa Anderson,60,strength,2026-05-16,13656,440,Unknown,62,6.7,95.1
+12,Lisa Anderson,60,strength,2026-05-30,11838,663,Unknown,63,8.0,59.1
+12,Lisa Anderson,60,strength,2026-06-04,17845,540,Walking,143,7.3,81.0
+12,Lisa Anderson,60,strength,2026-05-13,16071,537,Strength Training,96,8.6,72.6
+12,Lisa Anderson,60,strength,2026-05-19,15546,548,HIIT,160,5.5,81.7
+12,Lisa Anderson,60,strength,2026-05-22,3326,429,HIIT,141,7.5,83.6
+12,Lisa Anderson,60,strength,2026-05-22,4996,573,Yoga,170,9.9,59.1
+12,Lisa Anderson,60,strength,2026-05-14,2536,440,Unknown,134,7.6,82.2
+12,Lisa Anderson,60,strength,2026-05-29,15452,530,Unknown,133,7.6,115.6
+12,Lisa Anderson,60,strength,2026-05-28,16633,536,Cycling,102,9.2,60.9
+12,Lisa Anderson,60,strength,2026-05-17,14933,308,Unknown,109,4.2,81.0
+12,Lisa Anderson,60,strength,2026-05-12,10558,453,Unknown,115,4.9,51.1
+12,Lisa Anderson,60,strength,2026-05-26,5537,629,Yoga,147,7.6,81.0
+12,Lisa Anderson,60,strength,2026-06-05,8376,454,Unknown,77,4.9,90.9
+12,Lisa Anderson,60,strength,2026-06-01,8476,504,Unknown,134,6.5,56.0
+12,Lisa Anderson,60,strength,2026-05-24,10558,454,Unknown,138,4.2,81.0
+12,Lisa Anderson,60,strength,2026-05-23,13281,222,Strength Training,159,6.2,81.0
+13,Oscar Johnson,53,strength,2026-05-08,16596,522,Strength Training,175,7.6,97.5
+13,Oscar Johnson,53,strength,2026-05-16,18157,474,Unknown,176,4.6,56.7
+13,Oscar Johnson,53,strength,2026-05-28,15522,453,Running,64,7.6,81.0
+13,Oscar Johnson,53,strength,2026-05-22,9672,464,HIIT,134,8.8,81.0
+13,Oscar Johnson,53,strength,2026-05-15,5480,572,Unknown,114,7.5,62.9
+13,Oscar Johnson,53,strength,2026-05-28,10558,347,HIIT,138,8.8,114.4
+13,Oscar Johnson,53,strength,2026-05-18,18586,230,Yoga,111,7.2,81.0
+13,Oscar Johnson,53,strength,2026-05-25,7199,159,Walking,134,7.6,46.6
+13,Oscar Johnson,53,strength,2026-05-20,5209,619,Unknown,134,6.0,98.4
+13,Oscar Johnson,53,strength,2026-05-19,6875,454,Walking,134,4.1,71.2
+13,Oscar Johnson,53,strength,2026-06-04,13773,422,Cycling,62,9.2,47.8
+13,Oscar Johnson,53,strength,2026-05-12,5038,427,Unknown,71,7.2,81.0
+13,Oscar Johnson,53,strength,2026-05-31,17403,166,Unknown,65,6.2,81.0
+13,Oscar Johnson,53,strength,2026-05-25,5265,244,Walking,134,7.6,81.4
+13,Oscar Johnson,53,strength,2026-05-23,10732,270,Unknown,134,7.6,81.0
+13,Oscar Johnson,53,strength,2026-05-16,10813,324,Strength Training,134,7.6,54.4
+13,Oscar Johnson,53,strength,2026-05-26,10558,377,Unknown,108,6.8,63.8
+13,Oscar Johnson,53,strength,2026-05-28,12481,301,Unknown,175,9.0,101.2
+13,Oscar Johnson,53,strength,2026-05-16,3918,299,Running,134,7.6,81.0
+13,Oscar Johnson,53,strength,2026-05-22,1306,535,Running,158,6.7,89.8
+13,Oscar Johnson,53,strength,2026-06-04,10558,214,Unknown,173,7.6,57.9
+13,Oscar Johnson,53,strength,2026-05-17,15637,200,Unknown,61,6.7,48.3
+13,Oscar Johnson,53,strength,2026-05-24,10558,437,Strength Training,151,8.5,76.7
+13,Oscar Johnson,53,strength,2026-05-31,12237,546,Unknown,134,7.6,81.0
+13,Oscar Johnson,53,strength,2026-05-23,9106,433,Yoga,99,7.1,81.0
+13,Oscar Johnson,53,strength,2026-05-25,2058,454,Unknown,134,5.0,81.0
+13,Oscar Johnson,53,strength,2026-05-27,5217,454,Unknown,134,7.6,115.3
+13,Oscar Johnson,53,strength,2026-06-03,10558,683,Strength Training,90,7.6,107.8
+13,Oscar Johnson,53,strength,2026-05-10,15784,607,Strength Training,78,4.8,81.5
+13,Oscar Johnson,53,strength,2026-05-31,12263,297,Running,165,4.7,68.1
+14,James Garcia,24,weight_loss,2026-05-11,17005,454,Cycling,124,9.2,85.1
+14,James Garcia,24,weight_loss,2026-05-16,1170,200,Unknown,148,7.6,113.4
+14,James Garcia,24,weight_loss,2026-05-20,10469,454,Walking,134,6.9,90.8
+14,James Garcia,24,weight_loss,2026-05-26,19056,454,HIIT,67,9.2,52.9
+14,James Garcia,24,weight_loss,2026-05-16,19710,391,Running,67,8.9,82.6
+14,James Garcia,24,weight_loss,2026-05-29,10625,464,HIIT,130,6.3,67.2
+14,James Garcia,24,weight_loss,2026-05-26,3010,163,Walking,71,4.7,81.0
+14,James Garcia,24,weight_loss,2026-05-18,13621,454,Yoga,116,9.1,81.0
+14,James Garcia,24,weight_loss,2026-05-24,16673,446,Cycling,159,8.4,105.4
+14,James Garcia,24,weight_loss,2026-05-26,13555,454,Unknown,164,5.9,87.0
+14,James Garcia,24,weight_loss,2026-05-31,4610,404,Unknown,96,6.1,81.0
+14,James Garcia,24,weight_loss,2026-05-12,10625,640,Cycling,84,7.3,50.8
+14,James Garcia,24,weight_loss,2026-05-30,9726,681,Yoga,99,8.2,79.6
+14,James Garcia,24,weight_loss,2026-05-11,11041,453,Strength Training,116,6.9,114.4
+14,James Garcia,24,weight_loss,2026-05-30,15423,354,Unknown,134,7.9,103.9
+14,James Garcia,24,weight_loss,2026-05-21,19237,454,Walking,138,5.6,81.0
+14,James Garcia,24,weight_loss,2026-05-16,10625,571,Unknown,99,8.9,81.0
+14,James Garcia,24,weight_loss,2026-05-25,19739,386,Unknown,134,4.9,95.2
+14,James Garcia,24,weight_loss,2026-05-13,17625,440,Unknown,80,9.9,107.0
+14,James Garcia,24,weight_loss,2026-05-31,11324,501,Cycling,134,7.6,85.8
+14,James Garcia,24,weight_loss,2026-05-21,6102,634,Unknown,134,4.7,81.0
+14,James Garcia,24,weight_loss,2026-05-18,12536,287,Walking,97,7.6,90.5
+14,James Garcia,24,weight_loss,2026-05-27,12386,425,Walking,119,5.4,90.8
+14,James Garcia,24,weight_loss,2026-05-26,19717,298,Cycling,134,7.6,75.7
+14,James Garcia,24,weight_loss,2026-05-11,9508,274,Strength Training,73,7.6,81.0
+14,James Garcia,24,weight_loss,2026-05-15,17232,645,Running,180,8.2,112.3
+14,James Garcia,24,weight_loss,2026-05-22,10606,308,Unknown,166,7.6,46.3
+14,James Garcia,24,weight_loss,2026-05-18,11661,178,HIIT,134,5.2,88.1
+14,James Garcia,24,weight_loss,2026-05-21,5220,614,HIIT,117,9.0,103.6
+14,James Garcia,24,weight_loss,2026-06-03,10625,536,Cycling,175,7.6,113.2
+15,Ariana Dixon,18,strength,2026-05-23,18499,163,Running,153,7.0,81.0
+15,Ariana Dixon,18,strength,2026-05-18,19552,454,Unknown,66,7.6,46.1
+15,Ariana Dixon,18,strength,2026-05-09,2091,454,Cycling,134,9.0,81.0
+15,Ariana Dixon,18,strength,2026-05-25,10558,450,Walking,177,7.0,70.5
+15,Ariana Dixon,18,strength,2026-06-04,7321,454,Running,134,7.6,81.0
+15,Ariana Dixon,18,strength,2026-05-20,10558,440,Unknown,116,7.6,81.0
+15,Ariana Dixon,18,strength,2026-05-22,8126,453,Strength Training,134,4.7,109.3
+15,Ariana Dixon,18,strength,2026-05-25,12170,548,Walking,155,7.2,63.6
+15,Ariana Dixon,18,strength,2026-05-26,11529,306,Cycling,148,8.7,101.5
+15,Ariana Dixon,18,strength,2026-05-30,6600,540,Running,153,7.4,81.7
+15,Ariana Dixon,18,strength,2026-05-23,10558,454,Unknown,161,5.8,80.0
+15,Ariana Dixon,18,strength,2026-05-25,18396,454,HIIT,164,8.2,75.2
+15,Ariana Dixon,18,strength,2026-06-03,10558,460,Running,107,4.1,110.0
+15,Ariana Dixon,18,strength,2026-05-11,9171,454,Unknown,179,8.0,81.0
+15,Ariana Dixon,18,strength,2026-06-05,14504,454,Yoga,109,6.0,91.4
+15,Ariana Dixon,18,strength,2026-05-28,10375,453,HIIT,92,5.0,61.9
+15,Ariana Dixon,18,strength,2026-05-17,14655,178,Cycling,113,4.3,115.2
+15,Ariana Dixon,18,strength,2026-05-30,17559,432,Strength Training,75,9.5,76.6
+15,Ariana Dixon,18,strength,2026-05-16,11731,454,Unknown,81,7.6,74.4
+15,Ariana Dixon,18,strength,2026-05-30,8398,467,Yoga,162,7.6,65.8
+15,Ariana Dixon,18,strength,2026-05-25,10592,474,HIIT,105,4.6,81.0
+15,Ariana Dixon,18,strength,2026-05-25,16506,454,Running,96,5.2,64.9
+15,Ariana Dixon,18,strength,2026-05-22,6783,464,HIIT,98,4.7,73.1
+15,Ariana Dixon,18,strength,2026-05-22,4354,479,Running,175,8.9,81.0
+15,Ariana Dixon,18,strength,2026-05-27,17756,162,Yoga,134,8.8,100.4
+15,Ariana Dixon,18,strength,2026-05-13,12460,482,Unknown,134,5.7,52.6
+15,Ariana Dixon,18,strength,2026-06-05,2378,450,Walking,71,5.4,64.0
+15,Ariana Dixon,18,strength,2026-06-05,11434,454,Yoga,134,7.6,82.6
+15,Ariana Dixon,18,strength,2026-06-05,1793,450,Walking,150,6.4,94.6
+15,Ariana Dixon,18,strength,2026-05-26,9406,503,Unknown,134,7.6,69.4
+16,Brittany Carter,60,cardio,2026-06-06,11358,289,Yoga,73,9.7,111.2
+16,Brittany Carter,60,cardio,2026-05-10,11884,698,Yoga,79,7.6,68.2
+16,Brittany Carter,60,cardio,2026-05-28,10484,463,Yoga,96,7.6,61.7
+16,Brittany Carter,60,cardio,2026-05-21,12438,463,Unknown,134,9.2,69.6
+16,Brittany Carter,60,cardio,2026-05-11,10484,361,HIIT,121,5.5,91.5
+16,Brittany Carter,60,cardio,2026-05-13,5968,481,Strength Training,134,4.6,65.9
+16,Brittany Carter,60,cardio,2026-05-10,1814,503,Unknown,170,7.1,81.0
+16,Brittany Carter,60,cardio,2026-06-05,14553,540,Cycling,160,8.7,81.0
+16,Brittany Carter,60,cardio,2026-05-11,19542,488,Unknown,80,6.5,47.8
+16,Brittany Carter,60,cardio,2026-06-06,17135,453,Running,76,9.9,81.0
+16,Brittany Carter,60,cardio,2026-05-27,19261,483,Walking,62,9.8,70.5
+16,Brittany Carter,60,cardio,2026-05-27,9562,155,Yoga,120,5.4,95.2
+16,Brittany Carter,60,cardio,2026-06-04,10484,454,Running,175,7.6,104.4
+16,Brittany Carter,60,cardio,2026-05-20,12102,420,HIIT,142,9.0,63.1
+16,Brittany Carter,60,cardio,2026-05-18,9881,539,Cycling,149,6.4,117.4
+16,Brittany Carter,60,cardio,2026-05-29,1301,478,Unknown,134,6.7,92.0
+16,Brittany Carter,60,cardio,2026-06-06,16286,276,HIIT,139,7.6,81.0
+16,Brittany Carter,60,cardio,2026-05-11,10484,453,Unknown,82,7.6,68.1
+16,Brittany Carter,60,cardio,2026-06-03,2263,453,Unknown,106,5.1,56.0
+16,Brittany Carter,60,cardio,2026-05-25,13513,454,Unknown,124,5.1,114.6
+16,Brittany Carter,60,cardio,2026-05-12,12817,229,Strength Training,65,4.0,72.8
+16,Brittany Carter,60,cardio,2026-06-03,10484,285,Unknown,133,5.8,60.3
+16,Brittany Carter,60,cardio,2026-05-18,1546,181,Unknown,134,9.4,109.0
+16,Brittany Carter,60,cardio,2026-05-26,4179,440,Unknown,135,7.6,79.7
+16,Brittany Carter,60,cardio,2026-05-14,16163,526,Unknown,158,9.9,87.6
+16,Brittany Carter,60,cardio,2026-05-28,16340,467,Unknown,132,8.3,98.1
+16,Brittany Carter,60,cardio,2026-06-01,10523,175,Strength Training,127,10.0,54.9
+16,Brittany Carter,60,cardio,2026-05-30,5662,625,Unknown,118,8.2,69.8
+16,Brittany Carter,60,cardio,2026-05-08,14515,681,Cycling,177,9.6,108.3
+16,Brittany Carter,60,cardio,2026-06-01,13720,411,Strength Training,134,5.5,100.4
+17,Catherine Bailey,47,strength,2026-06-06,19049,453,Running,146,7.7,64.1
+17,Catherine Bailey,47,strength,2026-05-09,10647,418,Strength Training,176,8.9,78.7
+17,Catherine Bailey,47,strength,2026-06-01,10558,622,Yoga,78,9.3,81.0
+17,Catherine Bailey,47,strength,2026-05-15,18202,229,Strength Training,151,7.3,89.4
+17,Catherine Bailey,47,strength,2026-05-15,4747,166,Walking,95,4.3,102.7
+17,Catherine Bailey,47,strength,2026-05-17,2491,505,Unknown,134,5.1,100.0
+17,Catherine Bailey,47,strength,2026-06-06,11071,443,Walking,141,6.2,52.0
+17,Catherine Bailey,47,strength,2026-06-05,6651,454,Strength Training,170,4.7,47.5
+17,Catherine Bailey,47,strength,2026-05-08,3417,399,Walking,80,9.5,77.1
+17,Catherine Bailey,47,strength,2026-06-01,2602,271,Walking,174,5.3,101.2
+17,Catherine Bailey,47,strength,2026-06-01,17302,275,Unknown,131,7.6,66.3
+17,Catherine Bailey,47,strength,2026-05-11,2259,618,HIIT,172,7.6,71.8
+17,Catherine Bailey,47,strength,2026-05-14,12427,539,Unknown,134,4.8,92.2
+17,Catherine Bailey,47,strength,2026-05-12,6458,454,Unknown,82,4.2,81.0
+17,Catherine Bailey,47,strength,2026-06-06,14922,329,Unknown,134,8.4,81.0
+17,Catherine Bailey,47,strength,2026-06-03,14212,537,Unknown,132,7.4,55.5
+17,Catherine Bailey,47,strength,2026-05-16,16937,423,HIIT,152,7.5,81.0
+17,Catherine Bailey,47,strength,2026-06-03,4962,454,Running,153,6.3,81.0
+17,Catherine Bailey,47,strength,2026-05-24,10558,424,Strength Training,118,6.6,60.7
+17,Catherine Bailey,47,strength,2026-05-14,5946,467,Yoga,143,7.6,73.9
+17,Catherine Bailey,47,strength,2026-06-01,16384,454,Unknown,134,4.6,68.8
+17,Catherine Bailey,47,strength,2026-05-09,2742,453,Yoga,134,9.5,98.2
+17,Catherine Bailey,47,strength,2026-06-04,18452,454,Unknown,69,5.4,72.8
+17,Catherine Bailey,47,strength,2026-05-19,10558,354,Unknown,175,4.3,59.8
+17,Catherine Bailey,47,strength,2026-05-13,16567,689,HIIT,134,5.7,94.1
+17,Catherine Bailey,47,strength,2026-05-19,8958,579,Unknown,151,9.9,81.0
+17,Catherine Bailey,47,strength,2026-05-27,11346,170,Walking,76,5.5,88.5
+17,Catherine Bailey,47,strength,2026-05-08,14735,453,Cycling,134,9.9,68.4
+17,Catherine Bailey,47,strength,2026-05-11,5315,202,Running,141,8.5,106.7
+17,Catherine Bailey,47,strength,2026-05-16,10558,454,Yoga,134,8.4,54.7
+18,Dominique Bird,38,cardio,2026-06-01,1261,468,Running,134,8.3,72.1
+18,Dominique Bird,38,cardio,2026-05-28,10484,366,Strength Training,137,4.8,111.4
+18,Dominique Bird,38,cardio,2026-06-01,8449,301,Unknown,134,6.7,81.0
+18,Dominique Bird,38,cardio,2026-05-14,7014,454,Walking,130,6.1,116.7
+18,Dominique Bird,38,cardio,2026-05-20,9943,628,Walking,69,5.0,117.0
+18,Dominique Bird,38,cardio,2026-05-09,16022,661,Yoga,154,7.1,84.8
+18,Dominique Bird,38,cardio,2026-05-30,17230,252,Running,145,8.3,81.0
+18,Dominique Bird,38,cardio,2026-05-14,10484,453,Unknown,134,4.9,69.1
+18,Dominique Bird,38,cardio,2026-05-13,10162,533,Yoga,134,9.5,102.3
+18,Dominique Bird,38,cardio,2026-05-15,5281,477,Cycling,122,9.8,111.6
+18,Dominique Bird,38,cardio,2026-05-13,17339,337,Strength Training,134,7.4,81.0
+18,Dominique Bird,38,cardio,2026-05-19,17571,454,Running,78,6.5,81.0
+18,Dominique Bird,38,cardio,2026-05-31,15874,602,Cycling,158,7.6,67.6
+18,Dominique Bird,38,cardio,2026-06-05,13002,179,Unknown,134,6.5,55.4
+18,Dominique Bird,38,cardio,2026-05-25,10484,330,HIIT,78,5.4,84.1
+18,Dominique Bird,38,cardio,2026-06-05,4867,566,Unknown,134,7.6,119.1
+18,Dominique Bird,38,cardio,2026-05-26,17242,453,HIIT,135,6.8,56.8
+18,Dominique Bird,38,cardio,2026-05-22,10484,238,Unknown,76,7.6,95.0
+18,Dominique Bird,38,cardio,2026-06-04,7231,625,Unknown,180,7.0,96.5
+18,Dominique Bird,38,cardio,2026-05-23,18904,402,Walking,134,4.4,46.6
+18,Dominique Bird,38,cardio,2026-05-16,10484,462,Cycling,152,7.6,81.0
+18,Dominique Bird,38,cardio,2026-05-25,9717,539,Unknown,78,6.1,81.0
+18,Dominique Bird,38,cardio,2026-05-18,10629,639,Cycling,149,9.1,81.0
+18,Dominique Bird,38,cardio,2026-05-08,11931,668,Cycling,134,8.4,67.9
+18,Dominique Bird,38,cardio,2026-05-17,6202,372,Yoga,167,4.7,81.0
+18,Dominique Bird,38,cardio,2026-05-26,8037,453,Cycling,153,7.6,114.2
+18,Dominique Bird,38,cardio,2026-06-06,6439,534,Unknown,134,4.7,64.2
+18,Dominique Bird,38,cardio,2026-06-04,5906,453,Unknown,60,8.5,81.0
+18,Dominique Bird,38,cardio,2026-05-16,4170,535,Cycling,130,7.3,51.3
+18,Dominique Bird,38,cardio,2026-05-29,9358,429,Unknown,149,7.6,81.0
+19,James Rodriguez,34,cardio,2026-06-04,3674,454,HIIT,61,7.5,81.0
+19,James Rodriguez,34,cardio,2026-05-24,5819,665,Unknown,92,6.4,106.1
+19,James Rodriguez,34,cardio,2026-05-20,11866,453,Unknown,117,7.6,95.7
+19,James Rodriguez,34,cardio,2026-05-08,14380,454,Unknown,85,4.4,68.2
+19,James Rodriguez,34,cardio,2026-05-22,2765,645,Unknown,134,6.7,67.6
+19,James Rodriguez,34,cardio,2026-05-09,7818,450,Walking,134,6.1,79.5
+19,James Rodriguez,34,cardio,2026-05-21,19153,293,Strength Training,113,7.6,80.6
+19,James Rodriguez,34,cardio,2026-05-22,2284,650,Strength Training,134,7.3,85.9
+19,James Rodriguez,34,cardio,2026-05-11,12579,305,Unknown,127,7.6,81.0
+19,James Rodriguez,34,cardio,2026-05-27,14155,643,Yoga,64,7.6,81.0
+19,James Rodriguez,34,cardio,2026-05-31,10484,276,Yoga,148,7.0,98.8
+19,James Rodriguez,34,cardio,2026-05-10,4619,454,Cycling,132,5.3,88.3
+19,James Rodriguez,34,cardio,2026-05-30,17157,447,Yoga,107,4.9,119.6
+19,James Rodriguez,34,cardio,2026-05-21,14780,561,Yoga,71,5.4,45.3
+19,James Rodriguez,34,cardio,2026-05-15,18876,353,Unknown,176,4.1,54.5
+19,James Rodriguez,34,cardio,2026-05-12,10484,170,Cycling,119,7.6,59.3
+19,James Rodriguez,34,cardio,2026-05-13,10484,453,Unknown,94,7.1,69.8
+19,James Rodriguez,34,cardio,2026-05-19,4038,286,Yoga,152,6.8,81.0
+19,James Rodriguez,34,cardio,2026-05-10,10484,287,HIIT,134,5.7,118.6
+19,James Rodriguez,34,cardio,2026-05-13,6499,457,Walking,88,7.6,108.3
+19,James Rodriguez,34,cardio,2026-05-25,14199,676,HIIT,134,6.6,54.9
+19,James Rodriguez,34,cardio,2026-05-19,19791,229,Cycling,102,4.2,84.1
+19,James Rodriguez,34,cardio,2026-05-28,18642,440,Unknown,177,9.8,81.0
+19,James Rodriguez,34,cardio,2026-05-14,13439,454,Running,122,6.3,64.2
+19,James Rodriguez,34,cardio,2026-05-11,16326,571,Yoga,98,9.5,55.6
+19,James Rodriguez,34,cardio,2026-05-28,2959,268,Unknown,86,5.3,96.5
+19,James Rodriguez,34,cardio,2026-05-21,8596,189,Cycling,129,9.8,112.9
+19,James Rodriguez,34,cardio,2026-05-13,15265,453,Walking,118,7.6,110.1
+19,James Rodriguez,34,cardio,2026-05-18,1724,477,HIIT,134,9.6,58.9
+19,James Rodriguez,34,cardio,2026-06-03,1980,453,Unknown,84,9.5,88.6
+20,Mr. Scott Baker,61,flexibility,2026-05-31,12568,634,Unknown,134,8.0,65.2
+20,Mr. Scott Baker,61,flexibility,2026-05-13,5479,536,Cycling,161,7.6,102.3
+20,Mr. Scott Baker,61,flexibility,2026-05-13,10957,432,Cycling,134,7.3,81.0
+20,Mr. Scott Baker,61,flexibility,2026-05-09,10677,477,HIIT,135,9.2,80.3
+20,Mr. Scott Baker,61,flexibility,2026-05-23,7865,369,Unknown,158,6.5,77.0
+20,Mr. Scott Baker,61,flexibility,2026-06-03,10677,418,HIIT,180,9.4,88.3
+20,Mr. Scott Baker,61,flexibility,2026-05-09,8788,453,Unknown,134,7.6,72.5
+20,Mr. Scott Baker,61,flexibility,2026-05-30,8893,453,Unknown,104,4.5,81.9
+20,Mr. Scott Baker,61,flexibility,2026-05-25,12009,355,Walking,134,7.6,68.4
+20,Mr. Scott Baker,61,flexibility,2026-05-11,14902,454,Yoga,103,4.0,71.1
+20,Mr. Scott Baker,61,flexibility,2026-05-29,3734,454,Strength Training,112,4.9,115.0
+20,Mr. Scott Baker,61,flexibility,2026-05-27,8422,687,Running,92,8.7,101.1
+20,Mr. Scott Baker,61,flexibility,2026-05-10,8786,453,Unknown,127,7.4,91.3
+20,Mr. Scott Baker,61,flexibility,2026-05-17,5845,512,Running,80,7.0,105.6
+20,Mr. Scott Baker,61,flexibility,2026-06-06,12112,700,Cycling,90,5.7,57.1
+20,Mr. Scott Baker,61,flexibility,2026-05-10,1756,464,HIIT,134,5.4,102.6
+20,Mr. Scott Baker,61,flexibility,2026-05-08,4734,502,Walking,170,7.6,77.0
+20,Mr. Scott Baker,61,flexibility,2026-05-19,5589,681,Running,134,4.6,60.8
+20,Mr. Scott Baker,61,flexibility,2026-05-29,17522,453,Walking,96,9.8,94.8
+20,Mr. Scott Baker,61,flexibility,2026-05-20,4658,460,Running,141,7.6,111.0
+20,Mr. Scott Baker,61,flexibility,2026-05-11,5002,358,Cycling,86,7.6,104.6
+20,Mr. Scott Baker,61,flexibility,2026-05-22,19071,440,Unknown,164,6.7,116.5
+20,Mr. Scott Baker,61,flexibility,2026-05-21,13057,573,Yoga,169,5.1,116.4
+20,Mr. Scott Baker,61,flexibility,2026-05-10,4816,551,Walking,91,5.4,81.0
+20,Mr. Scott Baker,61,flexibility,2026-05-15,10677,640,Yoga,95,9.4,78.6
+20,Mr. Scott Baker,61,flexibility,2026-05-31,9683,542,Unknown,167,7.5,97.8
+20,Mr. Scott Baker,61,flexibility,2026-05-30,18649,454,Walking,154,7.6,81.0
+20,Mr. Scott Baker,61,flexibility,2026-06-05,8516,454,Running,119,4.9,95.9
+20,Mr. Scott Baker,61,flexibility,2026-06-06,6766,498,Cycling,173,7.6,71.5
+20,Mr. Scott Baker,61,flexibility,2026-05-16,13062,494,Running,76,7.6,81.0
+21,Lori Davis,49,flexibility,2026-05-12,1592,210,Cycling,137,7.6,69.3
+21,Lori Davis,49,flexibility,2026-05-31,1344,459,Walking,176,7.8,45.2
+21,Lori Davis,49,flexibility,2026-06-01,18698,454,Walking,152,7.9,65.9
+21,Lori Davis,49,flexibility,2026-05-20,4016,591,Cycling,74,4.2,112.5
+21,Lori Davis,49,flexibility,2026-05-09,4730,453,Unknown,134,8.4,98.4
+21,Lori Davis,49,flexibility,2026-06-05,1131,375,Yoga,134,5.1,98.1
+21,Lori Davis,49,flexibility,2026-05-13,5097,467,Yoga,73,7.9,81.0
+21,Lori Davis,49,flexibility,2026-06-02,16368,453,Walking,105,7.2,80.7
+21,Lori Davis,49,flexibility,2026-06-05,7244,440,Unknown,156,9.1,52.0
+21,Lori Davis,49,flexibility,2026-06-03,16752,582,Unknown,134,5.4,51.2
+21,Lori Davis,49,flexibility,2026-05-12,10677,440,Unknown,134,7.6,75.3
+21,Lori Davis,49,flexibility,2026-06-05,18911,422,Walking,134,9.8,103.5
+21,Lori Davis,49,flexibility,2026-05-14,9948,603,Yoga,135,7.6,77.4
+21,Lori Davis,49,flexibility,2026-06-03,11462,337,Cycling,134,7.6,64.2
+21,Lori Davis,49,flexibility,2026-06-05,19396,592,Walking,70,7.6,103.4
+21,Lori Davis,49,flexibility,2026-06-05,10677,366,Strength Training,134,5.5,57.5
+21,Lori Davis,49,flexibility,2026-05-21,9945,385,Unknown,107,8.0,60.2
+21,Lori Davis,49,flexibility,2026-05-18,10656,454,Unknown,112,7.6,76.5
+21,Lori Davis,49,flexibility,2026-05-23,1442,316,Yoga,154,7.9,54.5
+21,Lori Davis,49,flexibility,2026-05-29,14721,444,HIIT,92,6.3,77.8
+21,Lori Davis,49,flexibility,2026-05-13,14408,364,Unknown,108,4.8,106.4
+21,Lori Davis,49,flexibility,2026-05-26,10383,357,Running,116,4.9,46.8
+21,Lori Davis,49,flexibility,2026-05-12,13963,700,Walking,134,7.6,79.1
+21,Lori Davis,49,flexibility,2026-05-17,10677,210,Walking,134,5.6,81.0
+21,Lori Davis,49,flexibility,2026-05-21,9935,212,Unknown,176,8.1,101.8
+21,Lori Davis,49,flexibility,2026-05-14,17263,230,Unknown,104,9.8,77.4
+21,Lori Davis,49,flexibility,2026-05-15,8869,183,Unknown,89,9.5,67.3
+21,Lori Davis,49,flexibility,2026-05-13,7548,366,Unknown,74,9.4,81.0
+21,Lori Davis,49,flexibility,2026-05-26,10677,281,Unknown,134,7.6,86.3
+21,Lori Davis,49,flexibility,2026-06-03,11885,464,HIIT,71,7.8,101.3
+22,Carrie Williams,37,strength,2026-05-11,3493,454,Unknown,134,7.6,58.6
+22,Carrie Williams,37,strength,2026-05-29,10708,170,Unknown,134,6.7,85.1
+22,Carrie Williams,37,strength,2026-05-29,16281,450,Walking,134,7.5,89.3
+22,Carrie Williams,37,strength,2026-05-20,14364,453,Running,179,6.0,96.9
+22,Carrie Williams,37,strength,2026-06-04,9987,272,HIIT,65,7.6,109.2
+22,Carrie Williams,37,strength,2026-05-17,10558,464,HIIT,134,4.3,81.0
+22,Carrie Williams,37,strength,2026-05-09,7674,450,Walking,91,7.6,106.4
+22,Carrie Williams,37,strength,2026-05-13,13678,453,Strength Training,134,8.5,81.0
+22,Carrie Williams,37,strength,2026-06-03,18414,360,Running,134,6.4,101.1
+22,Carrie Williams,37,strength,2026-05-23,10558,440,Unknown,67,4.8,51.8
+22,Carrie Williams,37,strength,2026-05-19,2990,564,Running,170,7.6,81.0
+22,Carrie Williams,37,strength,2026-05-14,14703,440,Unknown,172,6.2,45.3
+22,Carrie Williams,37,strength,2026-05-30,17148,301,Yoga,134,4.3,106.7
+22,Carrie Williams,37,strength,2026-05-16,12722,156,Unknown,91,6.5,60.5
+22,Carrie Williams,37,strength,2026-06-03,13763,357,Unknown,107,5.0,81.0
+22,Carrie Williams,37,strength,2026-06-02,10558,636,Unknown,129,7.2,61.5
+22,Carrie Williams,37,strength,2026-06-06,13350,454,Unknown,174,5.4,85.1
+22,Carrie Williams,37,strength,2026-05-24,1156,308,Cycling,63,4.7,55.1
+22,Carrie Williams,37,strength,2026-06-01,10868,454,Walking,180,7.6,81.4
+22,Carrie Williams,37,strength,2026-05-24,3873,653,Unknown,111,7.6,59.9
+22,Carrie Williams,37,strength,2026-05-14,11615,369,Strength Training,127,7.2,110.0
+22,Carrie Williams,37,strength,2026-05-30,7456,404,HIIT,147,4.9,108.3
+22,Carrie Williams,37,strength,2026-05-25,2105,441,Unknown,134,6.5,66.0
+22,Carrie Williams,37,strength,2026-05-10,5168,163,Yoga,67,9.9,83.8
+22,Carrie Williams,37,strength,2026-05-15,11988,594,Walking,116,7.6,77.2
+22,Carrie Williams,37,strength,2026-05-10,15589,534,Running,134,7.4,81.0
+22,Carrie Williams,37,strength,2026-05-23,5431,165,HIIT,123,7.6,112.3
+22,Carrie Williams,37,strength,2026-06-05,10558,320,Strength Training,148,7.7,116.4
+22,Carrie Williams,37,strength,2026-05-12,14026,454,Unknown,71,7.6,81.0
+22,Carrie Williams,37,strength,2026-05-09,15849,633,Strength Training,134,7.6,81.0
+23,Robert Smith,44,flexibility,2026-06-03,3225,481,Unknown,136,6.0,116.3
+23,Robert Smith,44,flexibility,2026-05-20,1440,574,Unknown,134,4.3,81.0
+23,Robert Smith,44,flexibility,2026-05-22,4062,453,Unknown,66,8.7,103.1
+23,Robert Smith,44,flexibility,2026-06-02,4404,236,Yoga,86,7.6,81.0
+23,Robert Smith,44,flexibility,2026-05-18,12806,224,Unknown,124,7.6,89.8
+23,Robert Smith,44,flexibility,2026-05-10,6162,244,Running,169,6.4,111.8
+23,Robert Smith,44,flexibility,2026-05-21,16483,381,Unknown,178,7.6,81.0
+23,Robert Smith,44,flexibility,2026-05-24,1870,684,Cycling,166,6.3,81.0
+23,Robert Smith,44,flexibility,2026-05-11,19279,454,Yoga,70,7.6,97.9
+23,Robert Smith,44,flexibility,2026-05-21,5804,510,Running,145,9.9,93.8
+23,Robert Smith,44,flexibility,2026-05-09,16111,256,Cycling,67,7.6,63.5
+23,Robert Smith,44,flexibility,2026-06-02,6772,367,Cycling,134,7.6,64.3
+23,Robert Smith,44,flexibility,2026-06-05,19325,454,Walking,78,5.1,47.4
+23,Robert Smith,44,flexibility,2026-06-01,1317,454,Running,134,5.2,85.7
+23,Robert Smith,44,flexibility,2026-05-27,16582,330,Unknown,154,7.6,81.6
+23,Robert Smith,44,flexibility,2026-05-18,14214,558,Strength Training,65,7.6,66.4
+23,Robert Smith,44,flexibility,2026-05-24,2904,504,Unknown,86,6.4,81.0
+23,Robert Smith,44,flexibility,2026-05-11,4157,440,Unknown,67,9.1,53.2
+23,Robert Smith,44,flexibility,2026-05-08,3139,476,HIIT,68,4.8,81.0
+23,Robert Smith,44,flexibility,2026-05-29,10677,515,Yoga,165,6.3,105.4
+23,Robert Smith,44,flexibility,2026-05-13,18429,460,Running,134,4.5,45.3
+23,Robert Smith,44,flexibility,2026-06-02,14884,461,Unknown,154,6.2,81.0
+23,Robert Smith,44,flexibility,2026-06-01,10677,454,Unknown,173,7.6,81.0
+23,Robert Smith,44,flexibility,2026-05-21,10540,454,Yoga,134,7.6,84.2
+23,Robert Smith,44,flexibility,2026-05-08,10677,453,Walking,102,7.4,62.1
+23,Robert Smith,44,flexibility,2026-05-27,10677,242,Running,134,9.9,109.9
+23,Robert Smith,44,flexibility,2026-05-13,14396,432,Strength Training,155,8.9,57.5
+23,Robert Smith,44,flexibility,2026-06-01,19557,456,Strength Training,134,8.6,73.5
+23,Robert Smith,44,flexibility,2026-05-19,16321,236,Unknown,88,6.2,104.5
+23,Robert Smith,44,flexibility,2026-06-06,14659,299,Running,173,8.7,81.0
+24,Cheryl Ruiz,48,strength,2026-06-03,9505,342,HIIT,83,5.5,100.9
+24,Cheryl Ruiz,48,strength,2026-05-10,14239,360,HIIT,87,7.6,79.4
+24,Cheryl Ruiz,48,strength,2026-05-24,3304,440,Unknown,126,7.6,81.0
+24,Cheryl Ruiz,48,strength,2026-06-04,5891,577,Running,142,5.1,57.6
+24,Cheryl Ruiz,48,strength,2026-05-21,18063,430,Running,62,7.6,61.1
+24,Cheryl Ruiz,48,strength,2026-05-25,5541,619,HIIT,121,4.3,92.2
+24,Cheryl Ruiz,48,strength,2026-06-02,8776,454,Walking,71,4.6,94.9
+24,Cheryl Ruiz,48,strength,2026-05-19,19362,453,Strength Training,134,4.5,81.0
+24,Cheryl Ruiz,48,strength,2026-05-31,8236,456,Cycling,130,4.9,89.4
+24,Cheryl Ruiz,48,strength,2026-05-09,10558,486,HIIT,160,7.3,92.2
+24,Cheryl Ruiz,48,strength,2026-05-08,16481,454,Cycling,134,6.9,118.5
+24,Cheryl Ruiz,48,strength,2026-05-10,10558,454,Strength Training,170,6.6,81.0
+24,Cheryl Ruiz,48,strength,2026-06-04,9475,454,Unknown,134,9.5,82.7
+24,Cheryl Ruiz,48,strength,2026-05-21,9584,536,Cycling,86,4.8,81.0
+24,Cheryl Ruiz,48,strength,2026-05-26,2898,562,Strength Training,134,7.9,112.2
+24,Cheryl Ruiz,48,strength,2026-05-26,19073,396,Cycling,134,7.0,89.8
+24,Cheryl Ruiz,48,strength,2026-05-17,18664,333,Strength Training,134,5.5,103.3
+24,Cheryl Ruiz,48,strength,2026-06-04,8457,483,Strength Training,154,7.6,57.8
+24,Cheryl Ruiz,48,strength,2026-05-19,7476,683,Unknown,169,4.1,108.8
+24,Cheryl Ruiz,48,strength,2026-05-28,17813,257,HIIT,110,7.6,81.0
+24,Cheryl Ruiz,48,strength,2026-05-28,12106,585,Unknown,134,6.7,79.8
+24,Cheryl Ruiz,48,strength,2026-05-13,10558,234,Yoga,66,7.6,81.0
+24,Cheryl Ruiz,48,strength,2026-05-29,2637,454,Unknown,131,7.6,81.0
+24,Cheryl Ruiz,48,strength,2026-05-18,12256,454,HIIT,83,8.7,95.9
+24,Cheryl Ruiz,48,strength,2026-05-09,10558,453,Unknown,134,4.5,59.3
+24,Cheryl Ruiz,48,strength,2026-05-15,9570,467,Yoga,133,6.8,81.0
+24,Cheryl Ruiz,48,strength,2026-05-22,4918,597,Unknown,86,5.6,50.6
+24,Cheryl Ruiz,48,strength,2026-05-24,10558,437,Running,92,6.4,81.0
+24,Cheryl Ruiz,48,strength,2026-05-10,1153,454,Cycling,134,4.4,85.3
+24,Cheryl Ruiz,48,strength,2026-05-16,11123,440,Unknown,123,7.0,59.2
+25,Craig Castillo,55,flexibility,2026-06-03,13321,613,Running,174,4.2,100.2
+25,Craig Castillo,55,flexibility,2026-05-29,2674,617,Yoga,100,6.2,81.0
+25,Craig Castillo,55,flexibility,2026-05-28,4911,440,Unknown,96,7.0,81.0
+25,Craig Castillo,55,flexibility,2026-05-21,13788,454,Unknown,134,7.6,116.8
+25,Craig Castillo,55,flexibility,2026-05-15,5339,454,Strength Training,160,5.3,63.5
+25,Craig Castillo,55,flexibility,2026-05-22,5463,433,Running,166,7.6,80.1
+25,Craig Castillo,55,flexibility,2026-05-29,8573,486,Unknown,138,5.2,49.7
+25,Craig Castillo,55,flexibility,2026-06-06,15544,570,Running,134,8.3,87.9
+25,Craig Castillo,55,flexibility,2026-05-10,6197,454,Running,103,7.6,99.9
+25,Craig Castillo,55,flexibility,2026-05-25,1377,568,Running,99,9.9,93.6
+25,Craig Castillo,55,flexibility,2026-05-30,6738,305,Strength Training,148,7.6,63.2
+25,Craig Castillo,55,flexibility,2026-05-12,17155,328,Walking,123,4.3,78.7
+25,Craig Castillo,55,flexibility,2026-05-11,3033,311,HIIT,138,6.5,96.1
+25,Craig Castillo,55,flexibility,2026-05-27,4468,628,Cycling,173,7.6,86.5
+25,Craig Castillo,55,flexibility,2026-05-29,11266,284,Unknown,140,6.4,79.6
+25,Craig Castillo,55,flexibility,2026-06-03,2920,429,Unknown,134,6.2,111.6
+25,Craig Castillo,55,flexibility,2026-05-11,14475,521,Walking,134,7.6,76.4
+25,Craig Castillo,55,flexibility,2026-05-21,11027,453,Walking,84,7.8,81.0
+25,Craig Castillo,55,flexibility,2026-05-20,18158,204,HIIT,67,5.0,51.4
+25,Craig Castillo,55,flexibility,2026-05-30,17460,330,Unknown,119,7.1,83.5
+25,Craig Castillo,55,flexibility,2026-05-16,1396,282,Unknown,180,7.2,67.8
+25,Craig Castillo,55,flexibility,2026-05-19,13686,627,HIIT,167,5.4,81.0
+25,Craig Castillo,55,flexibility,2026-05-10,8687,462,Unknown,134,4.9,77.8
+25,Craig Castillo,55,flexibility,2026-05-12,7803,440,Unknown,152,9.4,81.0
+25,Craig Castillo,55,flexibility,2026-05-19,2536,454,Unknown,116,6.5,81.0
+25,Craig Castillo,55,flexibility,2026-05-28,10159,492,Running,173,9.2,106.6
+25,Craig Castillo,55,flexibility,2026-05-15,3372,454,Unknown,127,4.3,109.4
+25,Craig Castillo,55,flexibility,2026-05-30,10677,454,Yoga,134,5.4,81.0
+25,Craig Castillo,55,flexibility,2026-06-04,2779,448,Walking,152,7.0,101.9
+25,Craig Castillo,55,flexibility,2026-06-01,12603,281,Unknown,134,7.5,57.2
+26,Laura Wood,61,flexibility,2026-06-05,9165,478,Cycling,105,7.4,105.4
+26,Laura Wood,61,flexibility,2026-06-06,18536,683,Yoga,138,5.6,81.0
+26,Laura Wood,61,flexibility,2026-06-01,17904,308,Unknown,171,4.5,81.0
+26,Laura Wood,61,flexibility,2026-05-27,8343,321,Unknown,127,6.8,107.1
+26,Laura Wood,61,flexibility,2026-05-29,18581,453,Walking,92,7.6,74.4
+26,Laura Wood,61,flexibility,2026-05-19,10677,153,Unknown,177,7.6,65.1
+26,Laura Wood,61,flexibility,2026-06-04,14941,503,Running,134,5.7,81.0
+26,Laura Wood,61,flexibility,2026-05-25,9444,465,Strength Training,154,9.5,103.8
+26,Laura Wood,61,flexibility,2026-05-30,14596,358,Yoga,151,7.6,62.8
+26,Laura Wood,61,flexibility,2026-06-01,8754,467,Yoga,158,10.0,96.5
+26,Laura Wood,61,flexibility,2026-05-31,10677,454,Running,126,7.6,79.8
+26,Laura Wood,61,flexibility,2026-05-19,9120,453,Cycling,176,6.5,115.2
+26,Laura Wood,61,flexibility,2026-05-21,6995,233,Unknown,134,7.8,48.5
+26,Laura Wood,61,flexibility,2026-05-30,17304,285,Unknown,110,4.3,64.0
+26,Laura Wood,61,flexibility,2026-05-26,6770,626,Running,120,5.2,58.2
+26,Laura Wood,61,flexibility,2026-05-26,3933,454,Running,98,9.0,64.0
+26,Laura Wood,61,flexibility,2026-05-27,5442,454,Strength Training,109,6.6,100.3
+26,Laura Wood,61,flexibility,2026-06-06,10677,453,Walking,134,5.7,118.0
+26,Laura Wood,61,flexibility,2026-05-09,14415,229,Walking,134,6.7,80.2
+26,Laura Wood,61,flexibility,2026-06-02,9339,251,Strength Training,179,5.8,66.0
+26,Laura Wood,61,flexibility,2026-05-22,14687,461,Unknown,143,7.6,81.0
+26,Laura Wood,61,flexibility,2026-06-02,10355,385,Yoga,85,7.2,103.1
+26,Laura Wood,61,flexibility,2026-05-21,5545,687,Cycling,114,4.6,71.8
+26,Laura Wood,61,flexibility,2026-05-25,10677,644,Unknown,111,7.6,75.4
+26,Laura Wood,61,flexibility,2026-06-04,13326,454,Walking,127,9.7,98.9
+26,Laura Wood,61,flexibility,2026-05-31,16328,192,Walking,129,8.5,106.2
+26,Laura Wood,61,flexibility,2026-05-26,1585,671,Cycling,143,8.9,116.1
+26,Laura Wood,61,flexibility,2026-05-11,10677,454,Unknown,174,9.4,113.0
+26,Laura Wood,61,flexibility,2026-06-05,10677,231,Running,134,7.6,81.0
+26,Laura Wood,61,flexibility,2026-06-02,10677,302,Walking,64,8.0,54.8
+27,Lori Mills,33,strength,2026-05-10,13681,454,HIIT,134,8.2,81.0
+27,Lori Mills,33,strength,2026-05-25,6913,454,Running,97,9.3,81.0
+27,Lori Mills,33,strength,2026-05-31,19667,612,Walking,134,9.5,80.5
+27,Lori Mills,33,strength,2026-05-27,5765,639,Unknown,134,6.7,81.0
+27,Lori Mills,33,strength,2026-05-23,5534,271,Yoga,124,7.6,51.3
+27,Lori Mills,33,strength,2026-05-10,10663,268,Running,72,7.6,81.0
+27,Lori Mills,33,strength,2026-05-24,3968,292,Yoga,66,4.4,45.7
+27,Lori Mills,33,strength,2026-05-14,4360,217,Cycling,134,7.0,119.3
+27,Lori Mills,33,strength,2026-05-15,10558,454,Unknown,80,8.6,81.0
+27,Lori Mills,33,strength,2026-05-24,7109,664,Strength Training,134,9.2,53.8
+27,Lori Mills,33,strength,2026-06-02,2834,234,Unknown,134,7.6,81.0
+27,Lori Mills,33,strength,2026-05-31,10558,544,Yoga,94,6.2,81.8
+27,Lori Mills,33,strength,2026-05-24,10558,624,Yoga,96,9.4,104.8
+27,Lori Mills,33,strength,2026-05-25,7231,436,Cycling,134,9.3,91.4
+27,Lori Mills,33,strength,2026-05-13,15199,388,Unknown,171,6.2,107.9
+27,Lori Mills,33,strength,2026-05-21,18861,454,Cycling,125,5.3,79.5
+27,Lori Mills,33,strength,2026-05-29,15610,548,Strength Training,134,7.1,81.0
+27,Lori Mills,33,strength,2026-05-23,1640,419,Cycling,171,6.5,105.1
+27,Lori Mills,33,strength,2026-05-14,19834,285,Unknown,179,7.6,110.9
+27,Lori Mills,33,strength,2026-05-27,5279,454,Walking,100,7.1,110.0
+27,Lori Mills,33,strength,2026-05-29,4042,323,HIIT,96,5.8,71.9
+27,Lori Mills,33,strength,2026-05-29,18607,689,Walking,66,6.8,81.0
+27,Lori Mills,33,strength,2026-06-01,12520,176,Unknown,124,5.8,119.4
+27,Lori Mills,33,strength,2026-05-19,18815,402,Strength Training,170,8.0,71.0
+27,Lori Mills,33,strength,2026-05-28,18730,320,Running,124,9.8,73.6
+27,Lori Mills,33,strength,2026-05-17,1583,454,Unknown,126,6.8,109.5
+27,Lori Mills,33,strength,2026-05-16,17687,454,Unknown,96,5.2,81.0
+27,Lori Mills,33,strength,2026-05-29,10721,467,Unknown,133,7.6,52.7
+27,Lori Mills,33,strength,2026-05-26,8001,697,Yoga,134,9.4,50.4
+27,Lori Mills,33,strength,2026-05-25,10558,493,HIIT,134,4.1,70.4
+28,Michael Simmons,60,strength,2026-05-14,14706,454,Walking,131,5.4,68.8
+28,Michael Simmons,60,strength,2026-05-20,9702,518,Running,87,7.6,65.6
+28,Michael Simmons,60,strength,2026-05-22,10558,453,Walking,69,7.2,82.7
+28,Michael Simmons,60,strength,2026-05-21,2445,358,Walking,123,7.6,49.4
+28,Michael Simmons,60,strength,2026-05-24,15400,251,Unknown,134,4.1,63.6
+28,Michael Simmons,60,strength,2026-05-27,8371,412,Running,118,8.1,76.7
+28,Michael Simmons,60,strength,2026-06-02,18068,454,Yoga,79,7.6,111.0
+28,Michael Simmons,60,strength,2026-05-29,17954,454,Unknown,92,7.6,81.0
+28,Michael Simmons,60,strength,2026-05-26,19623,232,HIIT,157,5.9,94.9
+28,Michael Simmons,60,strength,2026-05-19,10520,317,Walking,114,7.8,99.7
+28,Michael Simmons,60,strength,2026-05-22,14710,457,Cycling,173,7.6,53.8
+28,Michael Simmons,60,strength,2026-05-13,2807,193,Unknown,85,7.6,115.7
+28,Michael Simmons,60,strength,2026-05-09,8251,465,Running,134,5.8,94.2
+28,Michael Simmons,60,strength,2026-06-02,16081,569,Strength Training,79,7.6,81.0
+28,Michael Simmons,60,strength,2026-06-04,18527,459,Walking,92,5.6,74.5
+28,Michael Simmons,60,strength,2026-05-14,17368,624,Yoga,78,7.6,104.6
+28,Michael Simmons,60,strength,2026-05-30,5823,454,Unknown,140,9.7,92.2
+28,Michael Simmons,60,strength,2026-06-01,17462,264,HIIT,134,9.7,61.5
+28,Michael Simmons,60,strength,2026-05-13,16894,482,Yoga,161,7.6,109.5
+28,Michael Simmons,60,strength,2026-05-18,6525,237,Strength Training,150,6.6,81.0
+28,Michael Simmons,60,strength,2026-05-24,19243,199,Unknown,157,7.6,119.8
+28,Michael Simmons,60,strength,2026-05-13,11606,262,Cycling,134,7.6,98.8
+28,Michael Simmons,60,strength,2026-05-31,6327,261,Running,134,9.5,104.1
+28,Michael Simmons,60,strength,2026-06-01,13308,454,HIIT,134,4.7,88.4
+28,Michael Simmons,60,strength,2026-05-23,4722,447,HIIT,74,7.2,53.6
+28,Michael Simmons,60,strength,2026-06-01,6964,690,HIIT,92,4.3,101.2
+28,Michael Simmons,60,strength,2026-05-12,11663,454,Unknown,87,5.2,110.2
+28,Michael Simmons,60,strength,2026-05-18,10558,161,Strength Training,101,4.7,81.0
+28,Michael Simmons,60,strength,2026-05-16,10731,288,Yoga,134,4.5,84.5
+28,Michael Simmons,60,strength,2026-05-29,7323,454,Cycling,90,6.4,69.1
+29,Caitlin Miller,31,strength,2026-05-11,14961,516,Unknown,98,9.2,52.0
+29,Caitlin Miller,31,strength,2026-05-08,8513,453,Unknown,106,5.2,71.8
+29,Caitlin Miller,31,strength,2026-06-02,10558,524,Running,124,9.2,81.0
+29,Caitlin Miller,31,strength,2026-05-18,15057,366,HIIT,112,7.6,116.7
+29,Caitlin Miller,31,strength,2026-05-17,11414,360,Unknown,66,5.4,97.7
+29,Caitlin Miller,31,strength,2026-05-26,5321,482,Cycling,134,8.7,68.8
+29,Caitlin Miller,31,strength,2026-05-28,2323,406,Strength Training,122,7.5,92.7
+29,Caitlin Miller,31,strength,2026-05-29,12896,454,Unknown,139,8.3,108.3
+29,Caitlin Miller,31,strength,2026-06-02,17875,495,Unknown,167,4.6,104.6
+29,Caitlin Miller,31,strength,2026-05-21,11097,454,Cycling,134,5.8,104.2
+29,Caitlin Miller,31,strength,2026-05-21,10654,454,Cycling,104,9.3,119.3
+29,Caitlin Miller,31,strength,2026-05-23,8396,366,Walking,145,4.9,65.2
+29,Caitlin Miller,31,strength,2026-05-14,5130,371,HIIT,177,9.4,108.2
+29,Caitlin Miller,31,strength,2026-05-16,19506,181,Yoga,134,6.1,78.9
+29,Caitlin Miller,31,strength,2026-05-25,14414,418,HIIT,134,7.6,97.5
+29,Caitlin Miller,31,strength,2026-05-16,11780,453,Running,134,7.6,119.9
+29,Caitlin Miller,31,strength,2026-05-17,1799,460,Running,134,7.6,58.9
+29,Caitlin Miller,31,strength,2026-06-06,8534,453,Strength Training,134,9.7,81.0
+29,Caitlin Miller,31,strength,2026-05-16,11439,547,Unknown,134,5.1,75.6
+29,Caitlin Miller,31,strength,2026-05-28,14913,161,Cycling,73,6.8,49.6
+29,Caitlin Miller,31,strength,2026-05-24,4961,350,Running,67,7.6,80.1
+29,Caitlin Miller,31,strength,2026-05-14,18118,182,Cycling,87,9.0,112.0
+29,Caitlin Miller,31,strength,2026-06-06,5849,205,Unknown,134,7.6,102.8
+29,Caitlin Miller,31,strength,2026-06-01,16071,683,Strength Training,162,5.5,109.1
+29,Caitlin Miller,31,strength,2026-05-28,3981,328,Unknown,69,7.6,81.0
+29,Caitlin Miller,31,strength,2026-05-14,17777,411,Unknown,87,4.2,91.2
+29,Caitlin Miller,31,strength,2026-06-02,16409,492,Strength Training,106,4.5,119.0
+29,Caitlin Miller,31,strength,2026-05-14,10558,546,Unknown,116,7.7,93.4
+29,Caitlin Miller,31,strength,2026-05-12,10715,193,Yoga,134,7.6,119.8
+29,Caitlin Miller,31,strength,2026-06-04,4648,672,Running,134,7.6,103.8
+30,Lisa Smith,62,strength,2026-05-22,8032,621,Walking,69,5.7,110.5
+30,Lisa Smith,62,strength,2026-05-29,17849,460,Yoga,134,8.1,97.5
+30,Lisa Smith,62,strength,2026-05-17,2445,321,Walking,119,8.1,103.0
+30,Lisa Smith,62,strength,2026-05-31,1317,228,Running,72,9.9,64.2
+30,Lisa Smith,62,strength,2026-05-11,8983,559,Strength Training,144,5.6,81.0
+30,Lisa Smith,62,strength,2026-05-13,2384,497,HIIT,111,9.6,47.0
+30,Lisa Smith,62,strength,2026-05-25,16413,476,Yoga,159,7.6,59.0
+30,Lisa Smith,62,strength,2026-05-18,12772,453,Yoga,134,8.4,51.9
+30,Lisa Smith,62,strength,2026-05-15,3984,454,Cycling,97,7.6,54.3
+30,Lisa Smith,62,strength,2026-06-04,2200,558,Walking,167,9.5,46.3
+30,Lisa Smith,62,strength,2026-05-12,7339,686,Unknown,134,7.4,104.6
+30,Lisa Smith,62,strength,2026-05-19,15545,440,Unknown,107,9.8,52.4
+30,Lisa Smith,62,strength,2026-05-17,5000,620,Strength Training,143,9.6,47.0
+30,Lisa Smith,62,strength,2026-05-12,14457,412,Unknown,116,9.9,81.0
+30,Lisa Smith,62,strength,2026-05-23,14486,459,Unknown,155,4.6,67.7
+30,Lisa Smith,62,strength,2026-06-04,16552,589,Unknown,65,7.6,110.8
+30,Lisa Smith,62,strength,2026-06-02,4338,214,HIIT,77,7.6,86.3
+30,Lisa Smith,62,strength,2026-05-16,15452,158,Running,105,4.0,49.6
+30,Lisa Smith,62,strength,2026-05-27,9678,454,Running,145,8.5,65.1
+30,Lisa Smith,62,strength,2026-05-26,5157,190,HIIT,121,5.0,114.8
+30,Lisa Smith,62,strength,2026-05-22,9520,346,Unknown,127,7.6,60.7
+30,Lisa Smith,62,strength,2026-05-28,4352,195,Walking,105,6.3,45.3
+30,Lisa Smith,62,strength,2026-05-21,6363,453,HIIT,175,5.4,59.8
+30,Lisa Smith,62,strength,2026-05-19,6982,664,Walking,114,9.1,52.5
+30,Lisa Smith,62,strength,2026-05-16,10973,454,Yoga,134,7.2,49.7
+30,Lisa Smith,62,strength,2026-05-24,10558,298,Cycling,129,7.6,81.0
+30,Lisa Smith,62,strength,2026-05-12,15917,440,Unknown,152,7.2,81.0
+30,Lisa Smith,62,strength,2026-05-13,10558,598,Unknown,98,4.6,81.0
+30,Lisa Smith,62,strength,2026-06-05,10558,174,Running,152,7.7,72.0
+30,Lisa Smith,62,strength,2026-05-26,10558,533,Yoga,112,5.6,81.0
+31,Crystal Sanchez,46,cardio,2026-05-13,17452,454,Running,74,4.8,97.1
+31,Crystal Sanchez,46,cardio,2026-05-11,10309,207,Unknown,164,6.3,92.9
+31,Crystal Sanchez,46,cardio,2026-05-29,17276,412,HIIT,134,7.8,81.5
+31,Crystal Sanchez,46,cardio,2026-06-01,16145,454,HIIT,105,6.7,100.3
+31,Crystal Sanchez,46,cardio,2026-06-04,10484,561,Unknown,100,7.1,95.0
+31,Crystal Sanchez,46,cardio,2026-05-27,7475,453,Yoga,166,9.0,59.9
+31,Crystal Sanchez,46,cardio,2026-05-28,11227,575,Unknown,175,6.0,49.3
+31,Crystal Sanchez,46,cardio,2026-06-06,2835,255,HIIT,179,8.1,81.0
+31,Crystal Sanchez,46,cardio,2026-05-10,10996,547,Unknown,69,7.6,57.0
+31,Crystal Sanchez,46,cardio,2026-06-04,2351,279,Unknown,157,8.7,105.1
+31,Crystal Sanchez,46,cardio,2026-05-24,10484,453,Yoga,134,4.5,81.0
+31,Crystal Sanchez,46,cardio,2026-05-13,17527,440,Unknown,175,5.3,81.0
+31,Crystal Sanchez,46,cardio,2026-06-01,13230,642,Unknown,60,7.6,81.0
+31,Crystal Sanchez,46,cardio,2026-06-03,5890,172,Walking,99,6.8,88.4
+31,Crystal Sanchez,46,cardio,2026-06-03,6161,487,Unknown,85,4.1,102.9
+31,Crystal Sanchez,46,cardio,2026-05-08,13530,518,Cycling,134,7.6,81.0
+31,Crystal Sanchez,46,cardio,2026-06-04,10706,454,Walking,70,7.6,107.0
+31,Crystal Sanchez,46,cardio,2026-05-17,14631,453,Unknown,62,7.6,61.2
+31,Crystal Sanchez,46,cardio,2026-05-14,14224,445,Running,126,8.1,81.0
+31,Crystal Sanchez,46,cardio,2026-05-19,10484,454,Running,84,6.1,90.6
+31,Crystal Sanchez,46,cardio,2026-06-04,19639,453,Unknown,150,7.6,81.0
+31,Crystal Sanchez,46,cardio,2026-06-01,6606,662,Cycling,85,9.4,77.7
+31,Crystal Sanchez,46,cardio,2026-06-01,16197,357,Yoga,134,7.4,106.4
+31,Crystal Sanchez,46,cardio,2026-05-09,7811,162,Unknown,65,7.3,81.0
+31,Crystal Sanchez,46,cardio,2026-05-13,8972,591,HIIT,103,5.6,49.9
+31,Crystal Sanchez,46,cardio,2026-05-25,9647,385,Yoga,74,5.1,96.9
+31,Crystal Sanchez,46,cardio,2026-05-21,1841,440,Unknown,150,4.9,89.7
+31,Crystal Sanchez,46,cardio,2026-05-17,5402,474,Running,134,6.8,81.0
+31,Crystal Sanchez,46,cardio,2026-05-22,19684,222,Cycling,102,8.8,113.1
+31,Crystal Sanchez,46,cardio,2026-05-15,3022,249,Unknown,134,8.0,61.8
+32,Gregory Johnson II,46,strength,2026-05-28,13835,529,Strength Training,134,7.6,89.6
+32,Gregory Johnson II,46,strength,2026-05-12,2149,440,Unknown,134,7.6,95.6
+32,Gregory Johnson II,46,strength,2026-06-06,9208,213,Yoga,134,7.6,83.8
+32,Gregory Johnson II,46,strength,2026-05-08,17913,454,HIIT,128,7.5,78.0
+32,Gregory Johnson II,46,strength,2026-05-13,3480,443,Unknown,169,8.4,59.3
+32,Gregory Johnson II,46,strength,2026-05-29,18323,453,Running,144,4.7,113.8
+32,Gregory Johnson II,46,strength,2026-05-28,17146,639,Unknown,61,5.3,73.4
+32,Gregory Johnson II,46,strength,2026-05-15,10558,454,Strength Training,88,6.5,75.8
+32,Gregory Johnson II,46,strength,2026-05-25,19836,464,Yoga,94,6.3,108.0
+32,Gregory Johnson II,46,strength,2026-06-05,19354,553,Strength Training,110,7.6,72.0
+32,Gregory Johnson II,46,strength,2026-05-29,6090,450,Walking,93,7.1,85.9
+32,Gregory Johnson II,46,strength,2026-05-10,12979,454,Unknown,134,9.7,48.8
+32,Gregory Johnson II,46,strength,2026-05-15,10558,440,Unknown,171,9.9,74.0
+32,Gregory Johnson II,46,strength,2026-05-09,16527,536,Cycling,92,5.7,55.5
+32,Gregory Johnson II,46,strength,2026-05-18,15131,639,Walking,134,7.6,88.5
+32,Gregory Johnson II,46,strength,2026-05-31,10558,266,Unknown,76,9.9,119.6
+32,Gregory Johnson II,46,strength,2026-05-30,10558,453,Walking,180,7.6,53.2
+32,Gregory Johnson II,46,strength,2026-05-22,10558,454,Yoga,102,8.8,50.1
+32,Gregory Johnson II,46,strength,2026-05-10,11880,301,Yoga,84,7.7,103.3
+32,Gregory Johnson II,46,strength,2026-05-22,14523,454,Unknown,124,7.5,61.1
+32,Gregory Johnson II,46,strength,2026-06-04,5985,454,Unknown,155,4.1,81.0
+32,Gregory Johnson II,46,strength,2026-06-01,8021,488,Unknown,62,7.6,117.4
+32,Gregory Johnson II,46,strength,2026-06-06,16048,453,Strength Training,134,6.7,76.1
+32,Gregory Johnson II,46,strength,2026-05-29,11218,453,Unknown,133,4.2,81.0
+32,Gregory Johnson II,46,strength,2026-05-12,2619,244,Unknown,178,7.6,70.3
+32,Gregory Johnson II,46,strength,2026-05-16,7441,454,HIIT,145,9.9,80.4
+32,Gregory Johnson II,46,strength,2026-05-29,10558,453,Cycling,119,9.1,80.9
+32,Gregory Johnson II,46,strength,2026-05-12,10558,374,Running,136,8.2,80.1
+32,Gregory Johnson II,46,strength,2026-05-15,11636,179,Yoga,99,5.1,118.9
+32,Gregory Johnson II,46,strength,2026-05-27,6630,402,Running,133,9.8,98.8
+33,Jacob Morales,62,cardio,2026-05-09,1943,454,Unknown,95,7.6,117.1
+33,Jacob Morales,62,cardio,2026-05-15,10445,478,Unknown,180,6.5,91.6
+33,Jacob Morales,62,cardio,2026-05-10,15479,529,Unknown,134,7.6,81.0
+33,Jacob Morales,62,cardio,2026-06-05,9943,454,Walking,72,7.6,105.8
+33,Jacob Morales,62,cardio,2026-05-26,10484,548,Unknown,134,7.6,81.7
+33,Jacob Morales,62,cardio,2026-05-15,6761,185,Strength Training,71,7.8,106.1
+33,Jacob Morales,62,cardio,2026-05-15,10484,303,Strength Training,143,6.2,73.2
+33,Jacob Morales,62,cardio,2026-06-01,15236,454,Yoga,134,6.2,84.9
+33,Jacob Morales,62,cardio,2026-05-25,12033,172,Yoga,102,7.6,48.5
+33,Jacob Morales,62,cardio,2026-05-09,2455,516,Unknown,87,7.6,62.1
+33,Jacob Morales,62,cardio,2026-05-22,5490,539,Cycling,112,8.0,102.7
+33,Jacob Morales,62,cardio,2026-05-16,16367,365,Unknown,122,9.1,101.6
+33,Jacob Morales,62,cardio,2026-06-03,4085,564,Yoga,165,7.6,81.0
+33,Jacob Morales,62,cardio,2026-05-14,18136,454,Unknown,162,7.6,87.3
+33,Jacob Morales,62,cardio,2026-05-31,3272,580,Unknown,134,7.6,104.6
+33,Jacob Morales,62,cardio,2026-05-20,1289,536,Cycling,134,7.6,81.0
+33,Jacob Morales,62,cardio,2026-06-01,17944,607,Unknown,124,8.1,116.5
+33,Jacob Morales,62,cardio,2026-05-08,6552,210,Unknown,132,7.6,90.5
+33,Jacob Morales,62,cardio,2026-05-16,19177,440,Unknown,99,5.9,85.4
+33,Jacob Morales,62,cardio,2026-05-17,5643,651,Unknown,180,9.6,104.6
+33,Jacob Morales,62,cardio,2026-05-23,10484,696,HIIT,162,6.1,108.9
+33,Jacob Morales,62,cardio,2026-06-02,10246,429,Strength Training,100,5.6,81.0
+33,Jacob Morales,62,cardio,2026-06-04,10003,192,Unknown,134,9.1,52.7
+33,Jacob Morales,62,cardio,2026-05-08,10186,569,Unknown,63,7.6,81.0
+33,Jacob Morales,62,cardio,2026-05-29,10484,666,Cycling,154,7.6,81.0
+33,Jacob Morales,62,cardio,2026-06-03,18844,454,Unknown,134,7.6,68.5
+33,Jacob Morales,62,cardio,2026-05-17,12592,454,Walking,134,4.5,92.6
+33,Jacob Morales,62,cardio,2026-05-28,3608,383,Yoga,124,4.6,93.1
+33,Jacob Morales,62,cardio,2026-05-09,10484,198,Walking,144,7.6,93.7
+33,Jacob Morales,62,cardio,2026-05-23,15415,383,Unknown,175,7.1,53.5
+34,Jerry Walker,23,flexibility,2026-06-04,10677,454,Unknown,152,4.7,81.0
+34,Jerry Walker,23,flexibility,2026-06-05,5591,493,HIIT,142,7.6,104.4
+34,Jerry Walker,23,flexibility,2026-05-17,14205,454,Strength Training,104,7.6,83.4
+34,Jerry Walker,23,flexibility,2026-05-18,12085,442,Unknown,171,7.9,104.5
+34,Jerry Walker,23,flexibility,2026-05-27,5912,642,Yoga,117,9.9,96.4
+34,Jerry Walker,23,flexibility,2026-06-06,6395,226,Cycling,109,9.3,105.3
+34,Jerry Walker,23,flexibility,2026-05-23,13179,569,Running,180,7.6,72.3
+34,Jerry Walker,23,flexibility,2026-05-22,10677,695,Unknown,134,9.3,81.0
+34,Jerry Walker,23,flexibility,2026-05-13,13847,440,Yoga,178,7.6,81.0
+34,Jerry Walker,23,flexibility,2026-06-03,9241,420,HIIT,177,5.2,81.0
+34,Jerry Walker,23,flexibility,2026-06-05,1450,630,Unknown,134,7.6,81.4
+34,Jerry Walker,23,flexibility,2026-05-19,15920,675,Running,134,9.0,116.3
+34,Jerry Walker,23,flexibility,2026-05-24,4165,453,Unknown,121,7.6,101.6
+34,Jerry Walker,23,flexibility,2026-06-01,3569,573,Strength Training,159,4.6,104.5
+34,Jerry Walker,23,flexibility,2026-05-17,8892,309,Unknown,119,8.7,104.9
+34,Jerry Walker,23,flexibility,2026-05-29,18340,319,Strength Training,64,5.0,45.7
+34,Jerry Walker,23,flexibility,2026-06-04,11157,453,Unknown,171,7.6,92.3
+34,Jerry Walker,23,flexibility,2026-05-18,2802,422,Unknown,132,7.6,81.3
+34,Jerry Walker,23,flexibility,2026-06-01,13582,437,Cycling,78,6.6,106.3
+34,Jerry Walker,23,flexibility,2026-06-06,17978,443,Yoga,134,5.3,66.5
+34,Jerry Walker,23,flexibility,2026-05-31,10677,611,Walking,163,7.3,83.8
+34,Jerry Walker,23,flexibility,2026-05-19,10677,437,Running,134,5.7,75.3
+34,Jerry Walker,23,flexibility,2026-05-09,16833,454,Yoga,134,4.5,81.0
+34,Jerry Walker,23,flexibility,2026-05-22,3054,215,Unknown,134,8.9,81.0
+34,Jerry Walker,23,flexibility,2026-05-10,9765,454,Running,158,5.9,45.5
+34,Jerry Walker,23,flexibility,2026-05-22,5195,489,HIIT,84,6.7,59.2
+34,Jerry Walker,23,flexibility,2026-05-24,14886,453,Walking,88,5.7,93.2
+34,Jerry Walker,23,flexibility,2026-05-26,17399,464,HIIT,67,9.2,81.0
+34,Jerry Walker,23,flexibility,2026-06-04,12574,304,Yoga,168,7.6,81.0
+34,Jerry Walker,23,flexibility,2026-06-06,12120,373,Unknown,61,8.9,48.9
+35,Kathleen Taylor,49,cardio,2026-05-09,4660,331,Walking,163,9.3,72.6
+35,Kathleen Taylor,49,cardio,2026-05-20,17653,537,Walking,134,7.6,55.3
+35,Kathleen Taylor,49,cardio,2026-05-16,17120,464,HIIT,133,7.6,61.5
+35,Kathleen Taylor,49,cardio,2026-05-30,14733,622,Unknown,177,6.7,55.9
+35,Kathleen Taylor,49,cardio,2026-05-14,12172,400,Running,167,8.8,107.1
+35,Kathleen Taylor,49,cardio,2026-06-05,10484,454,Unknown,117,4.7,56.7
+35,Kathleen Taylor,49,cardio,2026-05-28,10484,302,Strength Training,100,9.1,114.9
+35,Kathleen Taylor,49,cardio,2026-06-03,10484,318,Unknown,97,4.0,114.2
+35,Kathleen Taylor,49,cardio,2026-05-09,14565,682,Strength Training,117,6.4,92.6
+35,Kathleen Taylor,49,cardio,2026-05-29,12790,453,Walking,166,4.0,68.0
+35,Kathleen Taylor,49,cardio,2026-05-28,7071,421,Unknown,145,5.5,81.0
+35,Kathleen Taylor,49,cardio,2026-05-19,10484,642,Cycling,176,9.3,81.0
+35,Kathleen Taylor,49,cardio,2026-05-21,4038,388,Unknown,148,8.3,108.8
+35,Kathleen Taylor,49,cardio,2026-05-30,4884,454,Unknown,134,7.6,91.8
+35,Kathleen Taylor,49,cardio,2026-05-08,2343,454,Unknown,138,8.3,81.0
+35,Kathleen Taylor,49,cardio,2026-05-22,12700,173,Running,173,7.6,103.6
+35,Kathleen Taylor,49,cardio,2026-05-19,10103,453,Unknown,125,6.1,53.8
+35,Kathleen Taylor,49,cardio,2026-05-08,2271,521,HIIT,109,7.6,114.1
+35,Kathleen Taylor,49,cardio,2026-05-25,16356,440,Unknown,170,4.5,99.1
+35,Kathleen Taylor,49,cardio,2026-05-30,2513,414,Strength Training,96,9.8,65.1
+35,Kathleen Taylor,49,cardio,2026-05-25,16518,319,HIIT,170,8.8,81.0
+35,Kathleen Taylor,49,cardio,2026-06-02,10484,454,HIIT,74,9.7,81.0
+35,Kathleen Taylor,49,cardio,2026-06-01,17150,487,HIIT,115,8.2,110.5
+35,Kathleen Taylor,49,cardio,2026-06-03,4183,213,Unknown,86,5.2,71.3
+35,Kathleen Taylor,49,cardio,2026-05-24,4536,618,Cycling,134,7.7,81.0
+35,Kathleen Taylor,49,cardio,2026-05-29,14153,426,Unknown,134,9.1,55.7
+35,Kathleen Taylor,49,cardio,2026-05-16,13714,390,Running,134,7.2,81.0
+35,Kathleen Taylor,49,cardio,2026-05-12,18755,454,Yoga,134,5.8,119.7
+35,Kathleen Taylor,49,cardio,2026-05-18,6711,454,Strength Training,75,4.3,92.0
+35,Kathleen Taylor,49,cardio,2026-05-10,10949,154,Unknown,78,4.3,81.0
+36,Richard Perry,19,flexibility,2026-05-25,10677,454,Cycling,166,7.6,84.3
+36,Richard Perry,19,flexibility,2026-05-31,19266,486,Yoga,88,7.6,88.6
+36,Richard Perry,19,flexibility,2026-05-22,1659,453,Unknown,113,8.0,77.9
+36,Richard Perry,19,flexibility,2026-05-28,5662,374,Running,135,8.0,119.0
+36,Richard Perry,19,flexibility,2026-05-17,2669,386,Strength Training,134,5.9,81.0
+36,Richard Perry,19,flexibility,2026-06-04,15276,254,Unknown,108,9.4,51.9
+36,Richard Perry,19,flexibility,2026-05-28,8972,325,Walking,136,7.5,46.3
+36,Richard Perry,19,flexibility,2026-05-22,15461,475,HIIT,60,4.7,97.0
+36,Richard Perry,19,flexibility,2026-06-03,8637,256,Running,163,7.6,99.2
+36,Richard Perry,19,flexibility,2026-06-05,18162,273,Running,65,7.0,60.8
+36,Richard Perry,19,flexibility,2026-05-15,13908,454,Strength Training,105,7.6,89.6
+36,Richard Perry,19,flexibility,2026-05-29,10677,245,Running,134,6.6,52.0
+36,Richard Perry,19,flexibility,2026-05-28,16354,430,Unknown,180,5.7,81.0
+36,Richard Perry,19,flexibility,2026-05-19,1536,647,Yoga,93,6.2,56.7
+36,Richard Perry,19,flexibility,2026-05-25,16470,454,Cycling,117,9.6,62.4
+36,Richard Perry,19,flexibility,2026-05-13,5490,201,HIIT,168,7.6,81.0
+36,Richard Perry,19,flexibility,2026-05-17,18851,442,Unknown,107,7.6,94.4
+36,Richard Perry,19,flexibility,2026-05-16,16170,405,Strength Training,88,7.0,105.4
+36,Richard Perry,19,flexibility,2026-05-19,3740,460,Running,124,8.7,51.1
+36,Richard Perry,19,flexibility,2026-05-24,6907,453,Unknown,134,9.6,57.3
+36,Richard Perry,19,flexibility,2026-06-03,15281,160,Cycling,134,7.6,60.3
+36,Richard Perry,19,flexibility,2026-05-17,11592,604,Unknown,116,7.6,86.9
+36,Richard Perry,19,flexibility,2026-05-09,10677,648,HIIT,134,7.6,50.5
+36,Richard Perry,19,flexibility,2026-06-04,19506,239,Unknown,148,7.6,81.0
+36,Richard Perry,19,flexibility,2026-05-30,3463,220,Unknown,134,7.6,62.1
+36,Richard Perry,19,flexibility,2026-05-18,14088,696,Cycling,154,4.7,81.0
+36,Richard Perry,19,flexibility,2026-05-29,14302,207,Unknown,139,7.3,81.0
+36,Richard Perry,19,flexibility,2026-05-15,8272,453,Walking,176,9.6,53.6
+36,Richard Perry,19,flexibility,2026-05-21,12237,321,Yoga,141,9.5,92.9
+36,Richard Perry,19,flexibility,2026-05-24,6224,632,Running,145,5.2,109.6
+37,Matthew Wilson,30,strength,2026-05-20,10558,154,Unknown,134,8.3,66.7
+37,Matthew Wilson,30,strength,2026-05-22,14940,467,Running,105,6.6,98.3
+37,Matthew Wilson,30,strength,2026-05-25,10558,242,Unknown,162,5.9,92.2
+37,Matthew Wilson,30,strength,2026-05-09,3892,453,Unknown,134,4.1,81.0
+37,Matthew Wilson,30,strength,2026-05-30,11860,424,Strength Training,154,4.4,109.7
+37,Matthew Wilson,30,strength,2026-05-09,7302,678,Running,134,8.5,81.0
+37,Matthew Wilson,30,strength,2026-05-24,10553,424,Strength Training,77,7.6,81.0
+37,Matthew Wilson,30,strength,2026-06-06,1796,308,Unknown,175,4.2,62.3
+37,Matthew Wilson,30,strength,2026-06-04,4229,166,Yoga,134,8.6,57.2
+37,Matthew Wilson,30,strength,2026-06-01,18911,322,Unknown,113,5.5,66.8
+37,Matthew Wilson,30,strength,2026-06-04,6836,207,HIIT,180,4.1,115.8
+37,Matthew Wilson,30,strength,2026-05-26,6389,411,HIIT,134,4.8,81.0
+37,Matthew Wilson,30,strength,2026-05-25,5434,440,Unknown,74,8.2,104.8
+37,Matthew Wilson,30,strength,2026-05-11,12601,567,HIIT,134,7.6,102.4
+37,Matthew Wilson,30,strength,2026-06-06,15059,350,Walking,109,4.0,67.8
+37,Matthew Wilson,30,strength,2026-05-28,19637,600,Strength Training,153,7.6,58.8
+37,Matthew Wilson,30,strength,2026-06-01,1101,586,Unknown,152,6.6,98.7
+37,Matthew Wilson,30,strength,2026-06-04,5388,694,Running,123,7.8,52.1
+37,Matthew Wilson,30,strength,2026-05-29,9432,268,HIIT,60,7.6,61.5
+37,Matthew Wilson,30,strength,2026-05-11,8933,536,Cycling,134,7.6,46.5
+37,Matthew Wilson,30,strength,2026-05-18,4324,453,Unknown,95,7.6,81.0
+37,Matthew Wilson,30,strength,2026-05-21,12196,350,HIIT,78,8.7,83.6
+37,Matthew Wilson,30,strength,2026-05-17,4691,454,Unknown,74,5.8,81.0
+37,Matthew Wilson,30,strength,2026-05-22,10558,464,Unknown,81,4.3,81.0
+37,Matthew Wilson,30,strength,2026-05-11,6176,244,Unknown,61,4.7,45.6
+37,Matthew Wilson,30,strength,2026-06-04,5713,453,Unknown,134,6.1,81.0
+37,Matthew Wilson,30,strength,2026-05-24,10558,662,Unknown,132,5.1,85.1
+37,Matthew Wilson,30,strength,2026-05-09,10558,453,Strength Training,94,9.0,81.0
+37,Matthew Wilson,30,strength,2026-06-03,10068,277,HIIT,108,7.6,81.0
+37,Matthew Wilson,30,strength,2026-05-12,8054,458,Unknown,134,4.7,108.9
+38,Gregory Coleman,65,weight_loss,2026-05-19,12056,479,Walking,61,7.1,94.3
+38,Gregory Coleman,65,weight_loss,2026-06-01,10625,626,Yoga,80,6.5,118.7
+38,Gregory Coleman,65,weight_loss,2026-05-09,10332,190,Running,84,9.3,87.8
+38,Gregory Coleman,65,weight_loss,2026-05-22,10644,567,Unknown,127,9.9,103.9
+38,Gregory Coleman,65,weight_loss,2026-05-08,14999,574,Unknown,146,7.6,60.9
+38,Gregory Coleman,65,weight_loss,2026-05-10,17358,265,Strength Training,83,9.6,102.4
+38,Gregory Coleman,65,weight_loss,2026-05-26,11700,454,Running,134,9.2,94.7
+38,Gregory Coleman,65,weight_loss,2026-05-18,10224,450,Walking,134,8.3,87.2
+38,Gregory Coleman,65,weight_loss,2026-06-06,10625,454,Walking,134,8.7,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-13,5488,324,Unknown,93,7.8,64.0
+38,Gregory Coleman,65,weight_loss,2026-05-31,5199,238,Unknown,134,8.1,94.8
+38,Gregory Coleman,65,weight_loss,2026-05-09,15140,440,Unknown,180,7.1,78.1
+38,Gregory Coleman,65,weight_loss,2026-06-06,10625,610,Unknown,66,4.1,62.1
+38,Gregory Coleman,65,weight_loss,2026-05-14,10625,327,HIIT,134,7.6,53.1
+38,Gregory Coleman,65,weight_loss,2026-05-13,10625,488,Running,77,6.0,111.3
+38,Gregory Coleman,65,weight_loss,2026-05-28,10625,688,Unknown,134,6.8,76.6
+38,Gregory Coleman,65,weight_loss,2026-06-01,2548,453,Running,127,7.6,69.5
+38,Gregory Coleman,65,weight_loss,2026-06-04,10625,444,Unknown,154,7.8,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-15,4195,314,Unknown,134,4.1,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-15,9015,699,Unknown,134,9.2,84.4
+38,Gregory Coleman,65,weight_loss,2026-05-27,10625,414,Running,134,7.6,82.9
+38,Gregory Coleman,65,weight_loss,2026-05-19,2602,356,Strength Training,134,8.0,88.4
+38,Gregory Coleman,65,weight_loss,2026-05-30,1146,205,Unknown,94,8.4,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-25,10625,454,Strength Training,134,7.6,98.6
+38,Gregory Coleman,65,weight_loss,2026-06-04,13097,218,Running,134,5.7,80.9
+38,Gregory Coleman,65,weight_loss,2026-05-23,7412,454,HIIT,106,5.0,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-08,8964,638,HIIT,125,8.7,50.8
+38,Gregory Coleman,65,weight_loss,2026-05-31,4490,293,Running,86,7.5,81.0
+38,Gregory Coleman,65,weight_loss,2026-05-10,10625,440,Unknown,134,9.5,98.2
+38,Gregory Coleman,65,weight_loss,2026-05-24,17292,454,HIIT,76,8.3,54.4
+39,Mark Cordova,23,cardio,2026-05-26,13487,453,HIIT,172,5.6,69.8
+39,Mark Cordova,23,cardio,2026-05-16,8122,364,Unknown,134,4.3,74.7
+39,Mark Cordova,23,cardio,2026-05-16,11000,454,Strength Training,134,7.6,65.0
+39,Mark Cordova,23,cardio,2026-05-16,1376,453,Running,120,5.5,73.0
+39,Mark Cordova,23,cardio,2026-05-28,4565,572,HIIT,103,8.8,103.1
+39,Mark Cordova,23,cardio,2026-05-21,10484,454,HIIT,109,4.6,70.4
+39,Mark Cordova,23,cardio,2026-06-04,17067,557,Unknown,134,4.1,81.0
+39,Mark Cordova,23,cardio,2026-05-10,7273,454,Unknown,134,6.1,67.1
+39,Mark Cordova,23,cardio,2026-05-09,19262,586,Cycling,176,8.0,81.0
+39,Mark Cordova,23,cardio,2026-05-26,12299,153,HIIT,102,6.6,85.7
+39,Mark Cordova,23,cardio,2026-06-05,3971,453,Running,150,4.4,95.1
+39,Mark Cordova,23,cardio,2026-05-10,10484,440,Unknown,89,7.8,72.1
+39,Mark Cordova,23,cardio,2026-05-13,10583,291,Walking,137,7.5,102.4
+39,Mark Cordova,23,cardio,2026-05-30,10484,187,Running,134,5.8,61.1
+39,Mark Cordova,23,cardio,2026-05-17,10484,391,Unknown,154,9.4,59.2
+39,Mark Cordova,23,cardio,2026-05-28,10484,691,Walking,134,7.6,58.0
+39,Mark Cordova,23,cardio,2026-05-30,4073,447,Walking,75,10.0,70.8
+39,Mark Cordova,23,cardio,2026-05-17,10870,453,Unknown,134,7.6,89.9
+39,Mark Cordova,23,cardio,2026-05-22,14719,454,Unknown,146,7.9,81.0
+39,Mark Cordova,23,cardio,2026-05-22,8012,190,Unknown,75,8.9,72.5
+39,Mark Cordova,23,cardio,2026-05-14,1608,355,Walking,153,5.3,81.0
+39,Mark Cordova,23,cardio,2026-05-21,10484,454,Unknown,149,8.6,105.8
+39,Mark Cordova,23,cardio,2026-05-24,1006,294,Strength Training,93,7.5,101.7
+39,Mark Cordova,23,cardio,2026-05-19,2841,399,Walking,134,5.8,106.8
+39,Mark Cordova,23,cardio,2026-05-22,10484,534,Walking,96,5.9,48.3
+39,Mark Cordova,23,cardio,2026-05-26,17396,454,Unknown,67,5.4,65.6
+39,Mark Cordova,23,cardio,2026-05-17,7880,269,Unknown,134,9.8,80.1
+39,Mark Cordova,23,cardio,2026-05-28,18998,596,Strength Training,134,7.6,81.0
+39,Mark Cordova,23,cardio,2026-05-23,14091,680,Unknown,134,9.7,77.2
+39,Mark Cordova,23,cardio,2026-05-26,10484,536,Cycling,134,7.2,108.7
+40,Emily Woodward,34,strength,2026-05-14,7127,424,Strength Training,107,8.7,62.2
+40,Emily Woodward,34,strength,2026-05-30,4360,308,Unknown,115,6.0,109.4
+40,Emily Woodward,34,strength,2026-05-15,14177,186,Unknown,149,7.6,71.8
+40,Emily Woodward,34,strength,2026-05-31,1923,467,Yoga,148,7.6,83.8
+40,Emily Woodward,34,strength,2026-05-09,14523,291,HIIT,65,4.1,71.3
+40,Emily Woodward,34,strength,2026-06-02,4273,318,Unknown,81,7.6,47.8
+40,Emily Woodward,34,strength,2026-05-13,16628,537,Unknown,72,4.6,93.9
+40,Emily Woodward,34,strength,2026-05-11,10407,364,Unknown,134,5.0,101.4
+40,Emily Woodward,34,strength,2026-06-02,5927,656,Unknown,134,7.6,118.1
+40,Emily Woodward,34,strength,2026-05-09,18208,243,Cycling,134,7.6,94.6
+40,Emily Woodward,34,strength,2026-05-14,12743,454,Cycling,109,5.7,94.2
+40,Emily Woodward,34,strength,2026-05-17,11830,484,Yoga,120,9.6,78.4
+40,Emily Woodward,34,strength,2026-06-05,19714,514,Unknown,175,8.2,81.0
+40,Emily Woodward,34,strength,2026-05-19,10558,453,Unknown,150,6.1,109.7
+40,Emily Woodward,34,strength,2026-05-12,4979,552,Walking,147,7.6,71.4
+40,Emily Woodward,34,strength,2026-06-05,16182,454,Unknown,166,5.0,87.7
+40,Emily Woodward,34,strength,2026-05-09,9023,436,HIIT,134,7.6,66.9
+40,Emily Woodward,34,strength,2026-06-06,10558,209,HIIT,151,6.1,81.0
+40,Emily Woodward,34,strength,2026-06-06,1878,464,HIIT,167,7.6,58.5
+40,Emily Woodward,34,strength,2026-05-22,2406,454,HIIT,154,8.1,81.0
+40,Emily Woodward,34,strength,2026-05-18,1126,536,Cycling,133,9.6,108.9
+40,Emily Woodward,34,strength,2026-05-24,6901,378,Unknown,134,5.1,119.1
+40,Emily Woodward,34,strength,2026-05-11,10622,491,Unknown,134,7.6,81.0
+40,Emily Woodward,34,strength,2026-06-04,12505,662,Yoga,61,7.1,80.4
+40,Emily Woodward,34,strength,2026-05-16,1455,453,Running,134,5.7,113.1
+40,Emily Woodward,34,strength,2026-06-02,5884,600,HIIT,85,6.0,68.5
+40,Emily Woodward,34,strength,2026-05-15,8818,454,Unknown,173,9.7,68.0
+40,Emily Woodward,34,strength,2026-05-23,7444,440,Unknown,121,9.2,71.7
+40,Emily Woodward,34,strength,2026-05-14,15035,661,HIIT,108,7.6,67.6
+40,Emily Woodward,34,strength,2026-05-27,5005,545,Unknown,139,8.2,81.0
+41,Morgan Johnson,20,weight_loss,2026-05-13,14045,489,Running,93,9.1,109.6
+41,Morgan Johnson,20,weight_loss,2026-05-16,8662,454,Running,78,6.2,75.3
+41,Morgan Johnson,20,weight_loss,2026-05-21,3295,623,Walking,136,7.1,108.0
+41,Morgan Johnson,20,weight_loss,2026-05-25,1933,453,Unknown,134,9.7,77.5
+41,Morgan Johnson,20,weight_loss,2026-05-08,7596,324,Unknown,134,4.7,109.7
+41,Morgan Johnson,20,weight_loss,2026-05-30,13705,253,Strength Training,130,6.8,72.2
+41,Morgan Johnson,20,weight_loss,2026-05-31,4318,436,Walking,158,4.0,103.9
+41,Morgan Johnson,20,weight_loss,2026-05-24,17762,597,Cycling,138,6.2,81.0
+41,Morgan Johnson,20,weight_loss,2026-05-27,1076,394,Yoga,144,7.6,74.1
+41,Morgan Johnson,20,weight_loss,2026-05-19,14042,454,HIIT,134,5.9,58.6
+41,Morgan Johnson,20,weight_loss,2026-05-19,10424,450,Walking,134,6.2,78.2
+41,Morgan Johnson,20,weight_loss,2026-05-28,5392,648,Running,64,7.6,84.4
+41,Morgan Johnson,20,weight_loss,2026-06-02,3626,651,Cycling,67,7.9,81.0
+41,Morgan Johnson,20,weight_loss,2026-05-08,8488,656,Running,159,7.6,52.9
+41,Morgan Johnson,20,weight_loss,2026-06-03,2523,565,Unknown,134,8.8,110.4
+41,Morgan Johnson,20,weight_loss,2026-06-05,16660,454,Yoga,134,9.3,49.5
+41,Morgan Johnson,20,weight_loss,2026-05-08,14313,442,Yoga,129,4.1,51.7
+41,Morgan Johnson,20,weight_loss,2026-05-27,5333,454,Unknown,177,9.2,99.9
+41,Morgan Johnson,20,weight_loss,2026-05-19,5458,454,Yoga,174,4.1,113.9
+41,Morgan Johnson,20,weight_loss,2026-05-21,18300,472,Running,113,4.7,102.6
+41,Morgan Johnson,20,weight_loss,2026-05-16,14513,387,HIIT,68,7.6,114.6
+41,Morgan Johnson,20,weight_loss,2026-05-19,19886,288,HIIT,174,7.6,81.0
+41,Morgan Johnson,20,weight_loss,2026-05-16,19868,162,HIIT,134,4.4,79.9
+41,Morgan Johnson,20,weight_loss,2026-05-16,18908,214,Yoga,157,7.3,81.0
+41,Morgan Johnson,20,weight_loss,2026-05-17,17252,454,Cycling,85,8.7,50.2
+41,Morgan Johnson,20,weight_loss,2026-05-19,10625,375,Walking,140,6.0,102.4
+41,Morgan Johnson,20,weight_loss,2026-05-29,6994,507,Unknown,134,9.7,102.1
+41,Morgan Johnson,20,weight_loss,2026-05-08,13261,512,HIIT,134,7.6,114.8
+41,Morgan Johnson,20,weight_loss,2026-05-11,10625,424,Strength Training,134,7.6,116.5
+41,Morgan Johnson,20,weight_loss,2026-05-11,18293,628,HIIT,134,7.6,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-19,18343,381,Unknown,134,7.6,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-28,15172,612,Yoga,81,6.2,76.4
+42,Norma Mcknight,23,weight_loss,2026-05-29,17908,580,Cycling,98,9.6,104.4
+42,Norma Mcknight,23,weight_loss,2026-06-03,16128,319,Cycling,160,8.1,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-10,10625,414,Running,158,7.6,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-23,14483,440,Unknown,85,7.6,111.6
+42,Norma Mcknight,23,weight_loss,2026-05-16,9937,657,Strength Training,147,7.6,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-15,8241,440,Unknown,103,7.6,104.6
+42,Norma Mcknight,23,weight_loss,2026-05-12,10625,454,HIIT,155,8.9,48.9
+42,Norma Mcknight,23,weight_loss,2026-05-21,10625,295,Unknown,121,7.6,53.5
+42,Norma Mcknight,23,weight_loss,2026-05-26,9478,534,Unknown,84,4.6,66.4
+42,Norma Mcknight,23,weight_loss,2026-05-18,7607,469,Walking,65,7.6,63.1
+42,Norma Mcknight,23,weight_loss,2026-05-12,16423,473,Running,148,7.6,77.1
+42,Norma Mcknight,23,weight_loss,2026-05-29,14909,422,HIIT,72,6.1,45.1
+42,Norma Mcknight,23,weight_loss,2026-05-18,14452,172,Running,172,7.6,83.2
+42,Norma Mcknight,23,weight_loss,2026-05-23,15151,454,Running,82,7.9,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-14,2214,454,HIIT,134,5.7,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-19,2409,547,Strength Training,91,5.4,50.6
+42,Norma Mcknight,23,weight_loss,2026-05-18,19055,652,Running,171,7.2,69.4
+42,Norma Mcknight,23,weight_loss,2026-05-31,18633,454,Cycling,122,7.4,64.2
+42,Norma Mcknight,23,weight_loss,2026-05-19,10291,195,Unknown,134,7.6,81.0
+42,Norma Mcknight,23,weight_loss,2026-05-27,6116,569,Unknown,134,7.2,80.5
+42,Norma Mcknight,23,weight_loss,2026-05-20,4322,617,Running,133,7.6,101.6
+42,Norma Mcknight,23,weight_loss,2026-05-19,5586,450,Walking,175,7.6,106.5
+42,Norma Mcknight,23,weight_loss,2026-05-25,12189,449,Walking,79,9.7,118.1
+42,Norma Mcknight,23,weight_loss,2026-05-31,2434,599,Yoga,103,7.6,93.8
+42,Norma Mcknight,23,weight_loss,2026-05-24,17669,174,Cycling,139,9.9,75.0
+42,Norma Mcknight,23,weight_loss,2026-06-05,16908,453,Unknown,114,9.2,115.6
+42,Norma Mcknight,23,weight_loss,2026-05-18,1746,453,HIIT,134,7.6,81.5
+42,Norma Mcknight,23,weight_loss,2026-05-18,17531,422,Yoga,154,6.0,95.5
+43,Shawn Smith,60,cardio,2026-05-12,14672,242,Running,134,7.5,68.6
+43,Shawn Smith,60,cardio,2026-05-15,15808,390,Unknown,147,6.2,88.6
+43,Shawn Smith,60,cardio,2026-05-23,10484,661,Strength Training,134,7.6,82.6
+43,Shawn Smith,60,cardio,2026-05-26,10484,359,Cycling,85,7.6,81.0
+43,Shawn Smith,60,cardio,2026-06-02,8841,536,Unknown,110,7.8,64.2
+43,Shawn Smith,60,cardio,2026-06-04,7463,454,Unknown,134,7.6,65.7
+43,Shawn Smith,60,cardio,2026-05-22,6045,545,Cycling,171,7.6,98.0
+43,Shawn Smith,60,cardio,2026-05-12,19311,348,Running,104,7.6,49.5
+43,Shawn Smith,60,cardio,2026-06-02,14304,289,Running,165,6.1,94.1
+43,Shawn Smith,60,cardio,2026-05-08,18393,367,Cycling,125,6.2,81.0
+43,Shawn Smith,60,cardio,2026-05-25,8451,453,Walking,128,4.3,81.0
+43,Shawn Smith,60,cardio,2026-05-19,10484,454,Unknown,105,8.4,112.3
+43,Shawn Smith,60,cardio,2026-05-29,8673,325,Unknown,144,7.6,90.8
+43,Shawn Smith,60,cardio,2026-06-02,10341,536,Cycling,155,6.8,81.0
+43,Shawn Smith,60,cardio,2026-05-13,6334,407,HIIT,138,5.6,98.7
+43,Shawn Smith,60,cardio,2026-05-13,10484,395,Strength Training,66,9.1,117.6
+43,Shawn Smith,60,cardio,2026-05-21,11632,235,Strength Training,62,8.5,71.6
+43,Shawn Smith,60,cardio,2026-05-28,11552,203,Yoga,78,6.9,73.3
+43,Shawn Smith,60,cardio,2026-05-21,6332,430,Cycling,61,7.4,51.4
+43,Shawn Smith,60,cardio,2026-05-10,3482,544,Strength Training,172,7.0,114.6
+43,Shawn Smith,60,cardio,2026-05-14,10484,453,Cycling,78,9.1,81.0
+43,Shawn Smith,60,cardio,2026-05-10,10484,253,HIIT,64,4.4,55.0
+43,Shawn Smith,60,cardio,2026-06-05,8266,372,Unknown,134,8.2,65.0
+43,Shawn Smith,60,cardio,2026-05-09,10919,364,Cycling,111,7.7,84.0
+43,Shawn Smith,60,cardio,2026-05-24,11803,593,Unknown,134,5.0,100.2
+43,Shawn Smith,60,cardio,2026-05-15,4374,454,Strength Training,175,6.8,64.2
+43,Shawn Smith,60,cardio,2026-06-05,19312,381,Yoga,162,7.9,81.0
+43,Shawn Smith,60,cardio,2026-06-06,19309,454,Cycling,103,8.4,81.0
+43,Shawn Smith,60,cardio,2026-06-06,14158,614,Unknown,150,6.3,75.3
+43,Shawn Smith,60,cardio,2026-05-09,5026,450,Walking,134,7.6,81.0
+44,Brett Santiago,45,cardio,2026-06-01,6263,277,Cycling,118,7.6,46.3
+44,Brett Santiago,45,cardio,2026-05-11,1500,450,Cycling,134,8.7,76.1
+44,Brett Santiago,45,cardio,2026-06-04,15388,621,Walking,150,7.6,93.4
+44,Brett Santiago,45,cardio,2026-05-28,10484,680,Cycling,162,7.4,108.1
+44,Brett Santiago,45,cardio,2026-05-14,18606,450,Walking,134,7.6,61.5
+44,Brett Santiago,45,cardio,2026-05-27,10952,568,HIIT,95,6.7,97.7
+44,Brett Santiago,45,cardio,2026-05-16,4710,453,Unknown,65,7.6,77.9
+44,Brett Santiago,45,cardio,2026-05-25,16245,454,Unknown,122,6.2,59.6
+44,Brett Santiago,45,cardio,2026-05-24,6619,454,Walking,134,6.2,91.0
+44,Brett Santiago,45,cardio,2026-05-27,15602,268,Yoga,134,8.3,78.3
+44,Brett Santiago,45,cardio,2026-05-30,14216,454,Unknown,134,4.1,119.4
+44,Brett Santiago,45,cardio,2026-05-20,6427,559,Unknown,134,7.6,119.1
+44,Brett Santiago,45,cardio,2026-05-27,11593,320,Running,169,8.6,112.3
+44,Brett Santiago,45,cardio,2026-06-02,3279,453,Unknown,96,6.4,81.0
+44,Brett Santiago,45,cardio,2026-06-04,10484,633,Cycling,112,8.8,68.8
+44,Brett Santiago,45,cardio,2026-05-17,14644,454,HIIT,161,8.7,65.9
+44,Brett Santiago,45,cardio,2026-05-13,12021,245,Walking,71,7.6,109.8
+44,Brett Santiago,45,cardio,2026-05-24,15770,199,Running,134,9.3,46.6
+44,Brett Santiago,45,cardio,2026-05-27,7884,454,Unknown,94,6.5,63.9
+44,Brett Santiago,45,cardio,2026-05-17,10484,635,HIIT,178,5.2,72.9
+44,Brett Santiago,45,cardio,2026-05-14,7736,321,Running,127,7.6,52.7
+44,Brett Santiago,45,cardio,2026-05-20,11554,454,Unknown,117,7.5,73.1
+44,Brett Santiago,45,cardio,2026-06-03,3961,450,Walking,146,4.4,113.7
+44,Brett Santiago,45,cardio,2026-05-31,18832,567,Cycling,134,8.1,77.1
+44,Brett Santiago,45,cardio,2026-05-18,10484,544,Walking,134,5.5,74.7
+44,Brett Santiago,45,cardio,2026-05-12,10563,617,Cycling,111,7.7,78.5
+44,Brett Santiago,45,cardio,2026-05-19,6963,405,Walking,134,7.1,71.1
+44,Brett Santiago,45,cardio,2026-05-21,8010,245,Walking,178,8.8,75.7
+44,Brett Santiago,45,cardio,2026-05-21,16415,278,Walking,74,9.4,52.2
+44,Brett Santiago,45,cardio,2026-05-17,6429,510,Unknown,75,5.4,81.0
+45,Jackie Mathis,60,cardio,2026-05-16,7872,198,Running,109,4.7,81.0
+45,Jackie Mathis,60,cardio,2026-05-10,2401,690,Cycling,134,7.6,67.6
+45,Jackie Mathis,60,cardio,2026-05-28,18291,440,Unknown,72,8.6,86.8
+45,Jackie Mathis,60,cardio,2026-05-27,10484,212,Yoga,163,9.7,69.6
+45,Jackie Mathis,60,cardio,2026-05-30,9283,649,Unknown,134,6.5,88.3
+45,Jackie Mathis,60,cardio,2026-05-27,9178,454,Strength Training,134,7.6,79.6
+45,Jackie Mathis,60,cardio,2026-06-04,10484,536,Cycling,138,7.1,81.0
+45,Jackie Mathis,60,cardio,2026-05-18,13890,683,Yoga,134,9.4,56.1
+45,Jackie Mathis,60,cardio,2026-05-26,6829,413,Running,109,6.3,58.1
+45,Jackie Mathis,60,cardio,2026-05-30,14943,454,Unknown,149,7.6,63.0
+45,Jackie Mathis,60,cardio,2026-05-28,13244,565,HIIT,134,4.3,81.0
+45,Jackie Mathis,60,cardio,2026-05-15,7850,454,Unknown,65,7.6,98.1
+45,Jackie Mathis,60,cardio,2026-05-17,7105,624,Cycling,134,7.9,107.7
+45,Jackie Mathis,60,cardio,2026-05-09,10484,420,Strength Training,121,8.4,56.1
+45,Jackie Mathis,60,cardio,2026-05-09,4099,583,Cycling,108,4.2,73.0
+45,Jackie Mathis,60,cardio,2026-05-18,3022,175,Strength Training,159,6.9,103.4
+45,Jackie Mathis,60,cardio,2026-05-14,18458,520,Unknown,147,8.0,45.9
+45,Jackie Mathis,60,cardio,2026-05-09,4929,351,Unknown,147,4.7,95.5
+45,Jackie Mathis,60,cardio,2026-05-29,18732,669,Unknown,172,9.0,81.0
+45,Jackie Mathis,60,cardio,2026-06-03,3633,454,Unknown,87,4.7,82.5
+45,Jackie Mathis,60,cardio,2026-06-01,2441,440,Unknown,68,7.6,63.9
+45,Jackie Mathis,60,cardio,2026-05-29,16114,490,Running,134,7.6,105.5
+45,Jackie Mathis,60,cardio,2026-05-14,16515,289,Yoga,107,7.6,62.2
+45,Jackie Mathis,60,cardio,2026-05-26,14687,440,Unknown,145,8.9,48.6
+45,Jackie Mathis,60,cardio,2026-05-15,18149,355,Strength Training,66,7.6,81.0
+45,Jackie Mathis,60,cardio,2026-05-19,5953,454,Walking,134,8.3,98.9
+45,Jackie Mathis,60,cardio,2026-05-25,13664,613,Cycling,170,8.8,91.8
+45,Jackie Mathis,60,cardio,2026-05-16,10099,618,Unknown,68,5.9,89.1
+45,Jackie Mathis,60,cardio,2026-05-11,7287,465,Unknown,178,4.6,68.1
+45,Jackie Mathis,60,cardio,2026-05-23,3768,440,Unknown,124,9.3,49.9
+46,Jennifer Green,64,flexibility,2026-05-20,17848,608,Yoga,134,7.6,81.0
+46,Jennifer Green,64,flexibility,2026-05-26,10677,537,Unknown,153,7.6,68.3
+46,Jennifer Green,64,flexibility,2026-06-06,5448,582,HIIT,155,7.6,60.9
+46,Jennifer Green,64,flexibility,2026-05-12,15879,627,Cycling,113,7.6,81.0
+46,Jennifer Green,64,flexibility,2026-06-05,17743,454,Unknown,103,7.0,119.8
+46,Jennifer Green,64,flexibility,2026-05-14,10677,522,HIIT,102,7.6,115.1
+46,Jennifer Green,64,flexibility,2026-05-13,10677,654,HIIT,164,5.3,81.0
+46,Jennifer Green,64,flexibility,2026-05-19,11213,655,HIIT,134,7.6,117.7
+46,Jennifer Green,64,flexibility,2026-05-28,10677,678,Cycling,134,9.0,96.9
+46,Jennifer Green,64,flexibility,2026-05-26,5778,525,Unknown,157,5.7,81.0
+46,Jennifer Green,64,flexibility,2026-05-17,10677,331,Walking,94,7.6,105.1
+46,Jennifer Green,64,flexibility,2026-06-02,10677,453,Cycling,118,7.6,114.8
+46,Jennifer Green,64,flexibility,2026-05-22,14958,454,Cycling,61,5.2,81.0
+46,Jennifer Green,64,flexibility,2026-06-01,10677,174,Yoga,134,9.0,81.0
+46,Jennifer Green,64,flexibility,2026-06-02,12901,524,Unknown,134,6.2,100.6
+46,Jennifer Green,64,flexibility,2026-05-19,6228,620,Walking,113,7.1,88.9
+46,Jennifer Green,64,flexibility,2026-05-22,4672,364,Unknown,119,7.6,81.0
+46,Jennifer Green,64,flexibility,2026-06-04,12806,589,Running,66,8.8,61.2
+46,Jennifer Green,64,flexibility,2026-06-06,11673,454,Running,114,4.8,71.8
+46,Jennifer Green,64,flexibility,2026-06-06,17194,220,Unknown,164,5.7,100.5
+46,Jennifer Green,64,flexibility,2026-05-19,8841,379,Running,87,7.6,81.0
+46,Jennifer Green,64,flexibility,2026-05-08,3798,316,Unknown,122,7.6,79.0
+46,Jennifer Green,64,flexibility,2026-05-11,7791,453,Unknown,68,9.4,55.1
+46,Jennifer Green,64,flexibility,2026-05-26,10677,544,Yoga,157,7.2,81.0
+46,Jennifer Green,64,flexibility,2026-06-01,12232,453,Unknown,134,7.6,81.0
+46,Jennifer Green,64,flexibility,2026-05-15,9032,440,Unknown,134,9.9,87.1
+46,Jennifer Green,64,flexibility,2026-05-30,17486,424,Strength Training,134,5.1,110.1
+46,Jennifer Green,64,flexibility,2026-05-27,10677,487,Unknown,85,8.6,63.9
+46,Jennifer Green,64,flexibility,2026-05-19,18211,499,Running,75,4.1,45.7
+46,Jennifer Green,64,flexibility,2026-05-24,15596,453,Unknown,114,9.6,81.0
+47,Mary Nash,54,weight_loss,2026-05-30,10399,153,HIIT,177,4.7,117.2
+47,Mary Nash,54,weight_loss,2026-05-21,1402,270,Walking,144,9.3,96.0
+47,Mary Nash,54,weight_loss,2026-06-01,10625,282,Unknown,175,6.3,99.9
+47,Mary Nash,54,weight_loss,2026-05-08,10625,181,Strength Training,134,5.6,94.8
+47,Mary Nash,54,weight_loss,2026-05-17,5041,692,Strength Training,85,4.9,113.4
+47,Mary Nash,54,weight_loss,2026-05-21,6477,424,Strength Training,134,4.8,50.3
+47,Mary Nash,54,weight_loss,2026-05-13,18897,184,HIIT,134,6.9,111.8
+47,Mary Nash,54,weight_loss,2026-05-25,8057,464,HIIT,134,8.1,69.1
+47,Mary Nash,54,weight_loss,2026-05-25,13559,599,Cycling,165,8.6,99.0
+47,Mary Nash,54,weight_loss,2026-06-01,13009,284,Yoga,134,4.1,101.2
+47,Mary Nash,54,weight_loss,2026-05-13,16982,454,Cycling,118,7.6,49.3
+47,Mary Nash,54,weight_loss,2026-05-16,10265,454,Walking,85,5.5,66.6
+47,Mary Nash,54,weight_loss,2026-05-19,10748,454,Cycling,136,9.5,98.2
+47,Mary Nash,54,weight_loss,2026-06-02,16031,253,Unknown,82,8.6,60.1
+47,Mary Nash,54,weight_loss,2026-05-22,19449,226,Walking,134,9.3,81.0
+47,Mary Nash,54,weight_loss,2026-05-15,7114,454,Cycling,136,6.7,96.5
+47,Mary Nash,54,weight_loss,2026-05-20,12251,293,Unknown,143,7.6,81.0
+47,Mary Nash,54,weight_loss,2026-05-29,6068,688,Unknown,163,7.4,114.7
+47,Mary Nash,54,weight_loss,2026-05-10,18574,440,Unknown,170,7.7,106.3
+47,Mary Nash,54,weight_loss,2026-05-31,14760,587,Unknown,91,7.6,60.3
+47,Mary Nash,54,weight_loss,2026-06-01,17027,501,Cycling,134,5.0,97.5
+47,Mary Nash,54,weight_loss,2026-05-29,9152,445,Strength Training,134,4.3,64.1
+47,Mary Nash,54,weight_loss,2026-05-12,10625,640,Yoga,85,7.5,88.8
+47,Mary Nash,54,weight_loss,2026-05-18,10625,454,Unknown,69,5.4,52.6
+47,Mary Nash,54,weight_loss,2026-05-21,13883,536,Cycling,73,4.1,100.8
+47,Mary Nash,54,weight_loss,2026-05-23,16920,416,Unknown,169,7.6,81.0
+47,Mary Nash,54,weight_loss,2026-05-11,5367,222,Cycling,178,6.8,61.2
+47,Mary Nash,54,weight_loss,2026-05-14,10625,425,Unknown,152,6.7,76.3
+47,Mary Nash,54,weight_loss,2026-06-01,13983,435,Running,154,6.6,77.0
+47,Mary Nash,54,weight_loss,2026-06-02,8498,610,Unknown,107,9.4,81.0
+48,Joseph Cooper,38,flexibility,2026-06-04,18737,680,Running,145,8.3,94.7
+48,Joseph Cooper,38,flexibility,2026-06-04,19622,361,Cycling,107,7.8,101.4
+48,Joseph Cooper,38,flexibility,2026-06-06,17739,572,Walking,134,7.6,49.9
+48,Joseph Cooper,38,flexibility,2026-05-11,13163,694,Cycling,174,4.6,49.2
+48,Joseph Cooper,38,flexibility,2026-05-19,17257,454,HIIT,137,5.8,48.6
+48,Joseph Cooper,38,flexibility,2026-05-08,2445,262,Unknown,134,9.6,100.5
+48,Joseph Cooper,38,flexibility,2026-05-22,8552,198,HIIT,100,7.6,50.8
+48,Joseph Cooper,38,flexibility,2026-05-28,8243,419,Unknown,73,8.0,88.1
+48,Joseph Cooper,38,flexibility,2026-05-29,10677,440,Unknown,171,9.7,83.2
+48,Joseph Cooper,38,flexibility,2026-05-11,5368,319,Unknown,138,6.4,51.3
+48,Joseph Cooper,38,flexibility,2026-06-02,18322,640,Unknown,108,9.3,96.1
+48,Joseph Cooper,38,flexibility,2026-05-21,15100,337,Yoga,134,7.6,102.9
+48,Joseph Cooper,38,flexibility,2026-05-08,10296,448,Walking,112,8.4,108.3
+48,Joseph Cooper,38,flexibility,2026-05-20,10677,454,Cycling,134,8.3,52.2
+48,Joseph Cooper,38,flexibility,2026-05-09,18198,453,Yoga,106,5.1,65.8
+48,Joseph Cooper,38,flexibility,2026-06-02,10677,642,HIIT,162,6.5,72.4
+48,Joseph Cooper,38,flexibility,2026-05-16,7990,460,Running,155,7.6,81.0
+48,Joseph Cooper,38,flexibility,2026-05-11,9914,447,Strength Training,134,7.0,81.0
+48,Joseph Cooper,38,flexibility,2026-06-06,1955,358,Strength Training,118,7.6,111.6
+48,Joseph Cooper,38,flexibility,2026-05-16,15223,301,Running,100,7.6,79.4
+48,Joseph Cooper,38,flexibility,2026-06-05,18897,454,Walking,84,7.6,49.5
+48,Joseph Cooper,38,flexibility,2026-06-05,18504,614,Running,117,4.1,65.4
+48,Joseph Cooper,38,flexibility,2026-05-13,3037,295,Strength Training,134,7.6,74.7
+48,Joseph Cooper,38,flexibility,2026-05-10,5061,165,Walking,134,7.5,103.0
+48,Joseph Cooper,38,flexibility,2026-05-15,12899,203,Unknown,123,6.6,81.0
+48,Joseph Cooper,38,flexibility,2026-05-28,4922,150,HIIT,120,6.8,95.7
+48,Joseph Cooper,38,flexibility,2026-06-06,9621,453,Strength Training,144,5.6,89.1
+48,Joseph Cooper,38,flexibility,2026-05-21,10677,648,Yoga,145,4.4,66.6
+48,Joseph Cooper,38,flexibility,2026-05-18,6698,248,Running,134,7.6,89.3
+48,Joseph Cooper,38,flexibility,2026-05-30,10677,371,Unknown,130,7.6,81.0
+49,Bradley Walker,28,weight_loss,2026-05-15,10625,536,Cycling,159,4.3,60.5
+49,Bradley Walker,28,weight_loss,2026-05-10,7014,503,Unknown,84,7.6,94.8
+49,Bradley Walker,28,weight_loss,2026-05-13,8434,453,Strength Training,108,7.4,48.6
+49,Bradley Walker,28,weight_loss,2026-05-24,6765,168,Unknown,134,5.0,81.0
+49,Bradley Walker,28,weight_loss,2026-05-12,10396,254,Unknown,120,5.3,102.9
+49,Bradley Walker,28,weight_loss,2026-06-05,4137,454,Running,134,7.8,81.0
+49,Bradley Walker,28,weight_loss,2026-05-30,2197,696,Strength Training,131,7.6,63.8
+49,Bradley Walker,28,weight_loss,2026-05-16,19809,474,Unknown,141,9.6,106.8
+49,Bradley Walker,28,weight_loss,2026-05-24,12194,666,HIIT,82,5.1,62.7
+49,Bradley Walker,28,weight_loss,2026-05-23,7083,193,Unknown,142,8.6,50.1
+49,Bradley Walker,28,weight_loss,2026-05-08,5595,590,Unknown,66,6.4,81.0
+49,Bradley Walker,28,weight_loss,2026-05-10,18920,233,Walking,134,4.2,107.0
+49,Bradley Walker,28,weight_loss,2026-05-10,14949,454,Strength Training,134,4.1,92.7
+49,Bradley Walker,28,weight_loss,2026-05-26,14447,573,HIIT,134,7.6,92.7
+49,Bradley Walker,28,weight_loss,2026-05-29,18440,595,Cycling,116,4.3,66.7
+49,Bradley Walker,28,weight_loss,2026-05-08,10625,271,Unknown,97,9.9,95.7
+49,Bradley Walker,28,weight_loss,2026-05-31,15767,453,HIIT,129,4.2,58.6
+49,Bradley Walker,28,weight_loss,2026-05-18,10625,371,Yoga,150,7.6,63.6
+49,Bradley Walker,28,weight_loss,2026-05-14,15815,454,HIIT,137,7.6,81.0
+49,Bradley Walker,28,weight_loss,2026-05-22,10832,351,Strength Training,134,7.2,97.3
+49,Bradley Walker,28,weight_loss,2026-05-27,3633,628,Yoga,172,5.4,109.7
+49,Bradley Walker,28,weight_loss,2026-06-01,10625,516,Cycling,136,7.6,81.0
+49,Bradley Walker,28,weight_loss,2026-06-03,1903,453,HIIT,136,7.6,94.1
+49,Bradley Walker,28,weight_loss,2026-05-23,15148,446,Yoga,121,4.3,62.6
+49,Bradley Walker,28,weight_loss,2026-05-18,2464,479,Unknown,159,8.6,92.8
+49,Bradley Walker,28,weight_loss,2026-05-15,16541,462,Walking,82,5.2,64.0
+49,Bradley Walker,28,weight_loss,2026-05-28,6549,440,Unknown,113,6.7,71.2
+49,Bradley Walker,28,weight_loss,2026-05-16,15062,186,Unknown,134,7.1,58.7
+49,Bradley Walker,28,weight_loss,2026-05-27,5893,628,Running,91,9.4,81.6
+49,Bradley Walker,28,weight_loss,2026-05-12,13140,500,Yoga,83,7.6,64.9
+50,Penny Long,18,cardio,2026-05-23,18919,453,Running,149,9.4,52.1
+50,Penny Long,18,cardio,2026-05-20,10484,653,Unknown,76,7.6,48.8
+50,Penny Long,18,cardio,2026-05-29,11381,363,Walking,134,6.0,59.4
+50,Penny Long,18,cardio,2026-05-26,11439,454,Unknown,134,9.1,81.0
+50,Penny Long,18,cardio,2026-06-02,6649,604,Strength Training,92,9.7,81.0
+50,Penny Long,18,cardio,2026-05-24,9143,414,Cycling,154,7.6,79.4
+50,Penny Long,18,cardio,2026-05-17,13116,510,Walking,101,5.2,114.7
+50,Penny Long,18,cardio,2026-05-12,10484,456,HIIT,106,7.6,81.0
+50,Penny Long,18,cardio,2026-06-04,16933,373,Unknown,103,6.2,60.6
+50,Penny Long,18,cardio,2026-05-10,10484,569,Strength Training,133,8.9,81.0
+50,Penny Long,18,cardio,2026-05-08,4366,454,Cycling,134,9.1,91.3
+50,Penny Long,18,cardio,2026-05-30,10484,315,Strength Training,177,5.5,111.6
+50,Penny Long,18,cardio,2026-05-27,8557,454,Unknown,134,4.4,81.0
+50,Penny Long,18,cardio,2026-05-13,12955,319,Yoga,90,8.6,61.5
+50,Penny Long,18,cardio,2026-05-22,1358,464,HIIT,87,7.6,100.2
+50,Penny Long,18,cardio,2026-05-22,12008,683,Cycling,140,8.9,113.1
+50,Penny Long,18,cardio,2026-05-23,1454,656,Strength Training,178,7.8,81.0
+50,Penny Long,18,cardio,2026-05-17,19070,334,Unknown,134,7.6,62.4
+50,Penny Long,18,cardio,2026-05-24,3910,428,Cycling,134,9.1,99.6
+50,Penny Long,18,cardio,2026-05-24,19269,222,Strength Training,107,9.9,68.6
+50,Penny Long,18,cardio,2026-05-29,12614,180,Yoga,178,7.6,66.3
+50,Penny Long,18,cardio,2026-05-22,4564,424,Strength Training,109,4.7,82.0
+50,Penny Long,18,cardio,2026-05-08,12102,188,Yoga,70,7.6,81.0
+50,Penny Long,18,cardio,2026-05-28,17205,622,Yoga,134,5.1,81.0
+50,Penny Long,18,cardio,2026-05-09,10484,440,Unknown,85,5.9,81.0
+50,Penny Long,18,cardio,2026-05-30,6982,188,Unknown,163,7.6,61.4
+50,Penny Long,18,cardio,2026-06-02,6427,467,Cycling,134,9.6,49.8
+50,Penny Long,18,cardio,2026-05-25,19232,431,Unknown,98,9.1,81.0
+50,Penny Long,18,cardio,2026-05-12,10484,654,HIIT,124,6.8,108.9
+50,Penny Long,18,cardio,2026-05-17,7141,308,Unknown,61,5.6,84.5
