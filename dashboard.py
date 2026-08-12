@@ -504,11 +504,12 @@ elif page == "🔬  Pipeline Données":
 
         c1, c2, c3, c4 = st.columns(4)
         with c1:
+            missing_before = report.get("missing_before", 0)
+            missing_after = report.get("missing_after", 0)
             st.metric(
                 "❌ Valeurs manquantes",
-                report.get("missing_before", 0),
-                delta=f"-{report.get('missing_before', 0)"
-                      f" - report.get('missing_after', 0)}"
+                missing_after,
+                delta=f"{missing_after - missing_before}"
             )
         with c2:
             st.metric(
